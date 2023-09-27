@@ -1,0 +1,1916 @@
+<!doctype html>
+<html class="no-js" lang="pt-BR">
+  <head>
+
+
+  <meta name="p:domain_verify" content="1092c49d3627973c6944f8f553298786"/>
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGLBD3R');</script>
+<!-- End Google Tag Manager -->
+    
+	<!-- Added by AVADA SEO Suite -->
+	
+
+
+	<!-- /Added by AVADA SEO Suite -->
+
+   
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="">
+    <link rel="canonical" href="https://smilekitbrasil.com.br/">
+    <link rel="preconnect" href="https://cdn.shopify.com" crossorigin><link rel="icon" type="image/png" href="//smilekitbrasil.com.br/cdn/shop/files/Design_sem_nome_21.png?crop=center&height=32&v=1689173831&width=32"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
+      smilekit
+</title>
+
+    
+
+    
+
+<meta property="og:site_name" content="smilekit">
+<meta property="og:url" content="https://smilekitbrasil.com.br/">
+<meta property="og:title" content="smilekit">
+<meta property="og:type" content="website">
+<meta property="og:description" content="smilekit"><meta property="og:image" content="http://smilekitbrasil.com.br/cdn/shop/files/smilekit_1080_x_500_px_1080_x_250_px_2.png?height=628&pad_color=ffffff&v=1688318412&width=1200">
+  <meta property="og:image:secure_url" content="https://smilekitbrasil.com.br/cdn/shop/files/smilekit_1080_x_500_px_1080_x_250_px_2.png?height=628&pad_color=ffffff&v=1688318412&width=1200">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="628"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="smilekit">
+<meta name="twitter:description" content="smilekit">
+
+
+    <script src="//smilekitbrasil.com.br/cdn/shop/t/2/assets/constants.js?v=95358004781563950421688243511" defer="defer"></script>
+    <script src="//smilekitbrasil.com.br/cdn/shop/t/2/assets/pubsub.js?v=2921868252632587581688243512" defer="defer"></script>
+    <script src="//smilekitbrasil.com.br/cdn/shop/t/2/assets/global.js?v=127210358271191040921688243511" defer="defer"></script>
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/78895415597/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="7598504ba763298fd7abd77314279e3d">
+<meta id="in-context-paypal-metadata" data-shop-id="78895415597" data-venmo-supported="false" data-environment="production" data-locale="pt_BR" data-paypal-v4="true" data-currency="BRL">
+<script>
+  (function() {
+    var scripts = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/runtime.baseline.pt-BR.888639d0902dc684d0a3.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/809.baseline.pt-BR.f398d37a1955c4eb6e20.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information.baseline.pt-BR.dab8c3a2385ab212ec81.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/87.baseline.pt-BR.8755cef9d3266ff07574.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/17.baseline.pt-BR.4a8870fe40a80f76c694.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/39.baseline.pt-BR.af35581eca2c38516652.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.baseline.pt-BR.a40980f8ea761d226436.js"];
+    var styles = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/87.baseline.pt-BR.ee7df02fe97c1be73807.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.baseline.pt-BR.3aa4af9980db2ad18057.css", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/739.baseline.pt-BR.ffb34d2d2362700afcb8.css"];
+
+    function prefetch(url, as, callback) {
+      var link = document.createElement('link');
+      if (link.relList.supports('prefetch')) {
+        link.rel = 'prefetch';
+        link.fetchPriority = 'low';
+        link.as = as;
+        link.href = url;
+        link.onload = link.onerror = callback;
+        document.head.appendChild(link);
+      } else {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.onloadend = callback;
+        xhr.send();
+      }
+    }
+
+    function prefetchAssets() {
+      var resources = [].concat(
+        scripts.map(function(url) { return [url, 'script']; }),
+        styles.map(function(url) { return [url, 'style']; })
+      );
+      var index = 0;
+      (function next() {
+        var res = resources[index++];
+        if (res) prefetch(res[0], res[1], next);
+      })();
+    }
+
+    addEventListener('load', prefetchAssets);
+   })();
+</script>
+<script id="shopify-features" type="application/json">{"accessToken":"7598504ba763298fd7abd77314279e3d","betas":["rich-media-storefront-analytics"],"domain":"smilekitbrasil.com.br","predictiveSearch":true,"shopId":78895415597,"smart_payment_buttons_url":"https:\/\/smilekitbrasil.com.br\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.pt-br.js","dynamic_checkout_cart_url":"https:\/\/smilekitbrasil.com.br\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.pt-br.js","locale":"pt-br","optimusEnabled":false,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "smilekit-1668.myshopify.com";
+Shopify.locale = "pt-BR";
+Shopify.currency = {"active":"BRL","rate":"1.0"};
+Shopify.country = "BR";
+Shopify.theme = {"name":"Smilekit","id":153797591341,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "smilekitbrasil.com.br/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/seo.apps.avada.io\/scripttag\/avada-seo-installed.js?shop=smilekit-1668.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":78895415597,"offset":-10800,"reqid":"d255f096-f8b1-4e72-a99a-ac29bc63ce6c","pageurl":"smilekitbrasil.com.br\/","u":"b75347401299","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//smilekitbrasil.com.br/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//smilekitbrasil.com.br/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+<script id="sections-script" data-sections="header" defer="defer" src="//smilekitbrasil.com.br/cdn/shop/t/2/compiled_assets/scripts.js?644"></script>
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 60px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+
+    <style data-shopify>
+      @font-face {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//smilekitbrasil.com.br/cdn/fonts/montserrat/montserrat_n4.1d581f6d4bf1a97f4cbc0b88b933bc136d38d178.woff2?h1=c21pbGVraXQtMTY2OC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c21pbGVraXRicmFzaWwuY29tLmJy&hmac=1125b0ae26d4d1629d97a04780e84ed3061d6314b72c6c3183f100586d0ff5e4") format("woff2"),
+       url("//smilekitbrasil.com.br/cdn/fonts/montserrat/montserrat_n4.cfce41a967758ce5a9b7d48daeb5b028fd977a9b.woff?h1=c21pbGVraXQtMTY2OC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c21pbGVraXRicmFzaWwuY29tLmJy&hmac=41034344513f9bd795672a79b5b3ed92c13dd52f154e4b550c3789d62a55a670") format("woff");
+}
+
+      @font-face {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//smilekitbrasil.com.br/cdn/fonts/montserrat/montserrat_n7.c496e9cf2031deec4c4bca338faa81971c8631d4.woff2?h1=c21pbGVraXQtMTY2OC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c21pbGVraXRicmFzaWwuY29tLmJy&hmac=2cb050a1654b1b185189cd5e555b7e5ad7b1efaadc7b48d393d693a6bf7851e8") format("woff2"),
+       url("//smilekitbrasil.com.br/cdn/fonts/montserrat/montserrat_n7.78b0223375c94b39ce1af7e09a0225f2bb3d05f7.woff?h1=c21pbGVraXQtMTY2OC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c21pbGVraXRicmFzaWwuY29tLmJy&hmac=9cf06263b125f601d55e36f840292e32f05aa61578cb485034f12faf13784a3e") format("woff");
+}
+
+      @font-face {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//smilekitbrasil.com.br/cdn/fonts/montserrat/montserrat_i4.ae02483b3d5e8777d0d4a4ccf396482c364d8955.woff2?h1=c21pbGVraXQtMTY2OC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c21pbGVraXRicmFzaWwuY29tLmJy&hmac=3c68085d6e826a4e8c4149856a89b47d1405a69c04454ec1ca71e0849e056289") format("woff2"),
+       url("//smilekitbrasil.com.br/cdn/fonts/montserrat/montserrat_i4.ba28d1a04ec09448de486d83c63235903dfc0af8.woff?h1=c21pbGVraXQtMTY2OC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c21pbGVraXRicmFzaWwuY29tLmJy&hmac=d39f0c5da212dab716239754955cf683cfa1b74a14d9781944d506dee4aa4f6b") format("woff");
+}
+
+      @font-face {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("//smilekitbrasil.com.br/cdn/fonts/montserrat/montserrat_i7.83866c3eec90071fa974c17980ffb42977f9e667.woff2?h1=c21pbGVraXQtMTY2OC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c21pbGVraXRicmFzaWwuY29tLmJy&hmac=4522b7b450292090950d94e658a780c59e58c9a03febd194521562b9c517ff0c") format("woff2"),
+       url("//smilekitbrasil.com.br/cdn/fonts/montserrat/montserrat_i7.25524241b12d864609c85325613d60efcf1a87e3.woff?h1=c21pbGVraXQtMTY2OC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c21pbGVraXRicmFzaWwuY29tLmJy&hmac=b4d01e3b1427c86894ed4ccf8b431c45b78b8c4c1d9b73c2dbe3a8b111720804") format("woff");
+}
+
+      @font-face {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//smilekitbrasil.com.br/cdn/fonts/montserrat/montserrat_n4.1d581f6d4bf1a97f4cbc0b88b933bc136d38d178.woff2?h1=c21pbGVraXQtMTY2OC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c21pbGVraXRicmFzaWwuY29tLmJy&hmac=1125b0ae26d4d1629d97a04780e84ed3061d6314b72c6c3183f100586d0ff5e4") format("woff2"),
+       url("//smilekitbrasil.com.br/cdn/fonts/montserrat/montserrat_n4.cfce41a967758ce5a9b7d48daeb5b028fd977a9b.woff?h1=c21pbGVraXQtMTY2OC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c21pbGVraXRicmFzaWwuY29tLmJy&hmac=41034344513f9bd795672a79b5b3ed92c13dd52f154e4b550c3789d62a55a670") format("woff");
+}
+
+
+      :root {
+        --font-body-family: Montserrat, sans-serif;
+        --font-body-style: normal;
+        --font-body-weight: 400;
+        --font-body-weight-bold: 700;
+
+        --font-heading-family: Montserrat, sans-serif;
+        --font-heading-style: normal;
+        --font-heading-weight: 400;
+
+        --font-body-scale: 1.0;
+        --font-heading-scale: 1.0;
+
+        --color-base-text: 46, 42, 57;
+        --color-shadow: 46, 42, 57;
+        --color-base-background-1: 255, 255, 255;
+        --color-base-background-2: 46, 42, 57;
+        --color-base-solid-button-labels: 255, 255, 255;
+        --color-base-outline-button-labels: 46, 42, 57;
+        --color-base-accent-1: 112, 105, 188;
+        --color-base-accent-2: 204, 189, 255;
+        --payment-terms-background-color: #ffffff;
+
+        --gradient-base-background-1: #ffffff;
+        --gradient-base-background-2: #2e2a39;
+        --gradient-base-accent-1: #7069bc;
+        --gradient-base-accent-2: #ccbdff;
+
+        --media-padding: px;
+        --media-border-opacity: 0.1;
+        --media-border-width: 0px;
+        --media-radius: 14px;
+        --media-shadow-opacity: 0.0;
+        --media-shadow-horizontal-offset: 10px;
+        --media-shadow-vertical-offset: 12px;
+        --media-shadow-blur-radius: 20px;
+        --media-shadow-visible: 0;
+
+        --page-width: 150rem;
+        --page-width-margin: 0rem;
+
+        --product-card-image-padding: 0.0rem;
+        --product-card-corner-radius: 1.2rem;
+        --product-card-text-alignment: center;
+        --product-card-border-width: 0.0rem;
+        --product-card-border-opacity: 0.1;
+        --product-card-shadow-opacity: 0.05;
+        --product-card-shadow-visible: 1;
+        --product-card-shadow-horizontal-offset: 1.0rem;
+        --product-card-shadow-vertical-offset: 1.0rem;
+        --product-card-shadow-blur-radius: 3.5rem;
+
+        --collection-card-image-padding: 0.0rem;
+        --collection-card-corner-radius: 0.0rem;
+        --collection-card-text-alignment: center;
+        --collection-card-border-width: 0.0rem;
+        --collection-card-border-opacity: 0.1;
+        --collection-card-shadow-opacity: 0.0;
+        --collection-card-shadow-visible: 0;
+        --collection-card-shadow-horizontal-offset: 4.0rem;
+        --collection-card-shadow-vertical-offset: 4.0rem;
+        --collection-card-shadow-blur-radius: 4.0rem;
+
+        --blog-card-image-padding: 0.0rem;
+        --blog-card-corner-radius: 1.2rem;
+        --blog-card-text-alignment: center;
+        --blog-card-border-width: 0.0rem;
+        --blog-card-border-opacity: 0.1;
+        --blog-card-shadow-opacity: 0.05;
+        --blog-card-shadow-visible: 1;
+        --blog-card-shadow-horizontal-offset: 1.0rem;
+        --blog-card-shadow-vertical-offset: 1.0rem;
+        --blog-card-shadow-blur-radius: 3.5rem;
+
+        --badge-corner-radius: 2.0rem;
+
+        --popup-border-width: 1px;
+        --popup-border-opacity: 0.1;
+        --popup-corner-radius: 22px;
+        --popup-shadow-opacity: 0.1;
+        --popup-shadow-horizontal-offset: 10px;
+        --popup-shadow-vertical-offset: 12px;
+        --popup-shadow-blur-radius: 20px;
+
+        --drawer-border-width: 1px;
+        --drawer-border-opacity: 0.1;
+        --drawer-shadow-opacity: 0.0;
+        --drawer-shadow-horizontal-offset: 0px;
+        --drawer-shadow-vertical-offset: 4px;
+        --drawer-shadow-blur-radius: 5px;
+
+        --spacing-sections-desktop: 12px;
+        --spacing-sections-mobile: 12px;
+
+        --grid-desktop-vertical-spacing: 4px;
+        --grid-desktop-horizontal-spacing: 28px;
+        --grid-mobile-vertical-spacing: 2px;
+        --grid-mobile-horizontal-spacing: 14px;
+
+        --text-boxes-border-opacity: 0.1;
+        --text-boxes-border-width: 0px;
+        --text-boxes-radius: 24px;
+        --text-boxes-shadow-opacity: 0.0;
+        --text-boxes-shadow-visible: 0;
+        --text-boxes-shadow-horizontal-offset: 10px;
+        --text-boxes-shadow-vertical-offset: 12px;
+        --text-boxes-shadow-blur-radius: 20px;
+
+        --buttons-radius: 10px;
+        --buttons-radius-outset: 11px;
+        --buttons-border-width: 1px;
+        --buttons-border-opacity: 0.55;
+        --buttons-shadow-opacity: 0.0;
+        --buttons-shadow-visible: 0;
+        --buttons-shadow-horizontal-offset: 0px;
+        --buttons-shadow-vertical-offset: 4px;
+        --buttons-shadow-blur-radius: 5px;
+        --buttons-border-offset: 0.3px;
+
+        --inputs-radius: 10px;
+        --inputs-border-width: 1px;
+        --inputs-border-opacity: 0.55;
+        --inputs-shadow-opacity: 0.0;
+        --inputs-shadow-horizontal-offset: 0px;
+        --inputs-margin-offset: 0px;
+        --inputs-shadow-vertical-offset: -4px;
+        --inputs-shadow-blur-radius: 5px;
+        --inputs-radius-outset: 11px;
+
+        --variant-pills-radius: 10px;
+        --variant-pills-border-width: 0px;
+        --variant-pills-border-opacity: 0.1;
+        --variant-pills-shadow-opacity: 0.0;
+        --variant-pills-shadow-horizontal-offset: 0px;
+        --variant-pills-shadow-vertical-offset: 4px;
+        --variant-pills-shadow-blur-radius: 5px;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+      }
+
+      html {
+        box-sizing: border-box;
+        font-size: calc(var(--font-body-scale) * 62.5%);
+        height: 100%;
+      }
+
+      body {
+        display: grid;
+        grid-template-rows: auto auto 1fr auto;
+        grid-template-columns: 100%;
+        min-height: 100%;
+        margin: 0;
+        font-size: 1.5rem;
+        letter-spacing: 0.06rem;
+        line-height: calc(1 + 0.8 / var(--font-body-scale));
+        font-family: var(--font-body-family);
+        font-style: var(--font-body-style);
+        font-weight: var(--font-body-weight);
+      }
+
+      @media screen and (min-width: 750px) {
+        body {
+          font-size: 1.6rem;
+        }
+      }
+    </style>
+
+    <link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/base.css?v=11658221797937312531689885811" rel="stylesheet" type="text/css" media="all" />
+<link rel="preload" as="font" href="//smilekitbrasil.com.br/cdn/fonts/montserrat/montserrat_n4.1d581f6d4bf1a97f4cbc0b88b933bc136d38d178.woff2?h1=c21pbGVraXQtMTY2OC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c21pbGVraXRicmFzaWwuY29tLmJy&hmac=1125b0ae26d4d1629d97a04780e84ed3061d6314b72c6c3183f100586d0ff5e4" type="font/woff2" crossorigin><link rel="preload" as="font" href="//smilekitbrasil.com.br/cdn/fonts/montserrat/montserrat_n4.1d581f6d4bf1a97f4cbc0b88b933bc136d38d178.woff2?h1=c21pbGVraXQtMTY2OC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=c21pbGVraXRicmFzaWwuY29tLmJy&hmac=1125b0ae26d4d1629d97a04780e84ed3061d6314b72c6c3183f100586d0ff5e4" type="font/woff2" crossorigin><script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+    if (Shopify.designMode) {
+      document.documentElement.classList.add('shopify-design-mode');
+    }
+    </script>
+  <script src="https://cdn.shopify.com/extensions/5ddde4b0-21ab-4113-a340-332d845636e7/pagefly-page-builder-1/assets/cart.js" type="text/javascript" defer="defer"></script>
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 78895415597,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,o,t,r,i){function s(e,n){if(document.head){var a=document.createElement("link");e.match(/spin\.dev\/?/)&&(e+="?fast_storefront_renderer=1"),a.rel="preload",a.href=e,n&&(a.as=n);try{document.head.appendChild(a)}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Could not append prefetch link tag to DOM.")}}}var l=i||[],d=null!==e;d&&(window.Shopify=window.Shopify||{},window.Shopify.analytics=window.Shopify.analytics||{},window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=function(e,n,a){window.Shopify.analytics.replayQueue.push([e,n,a])});var c=function(){var e="legacy",n="unknown",a=null,o=navigator.userAgent.match(/(Firefox|Chrome)\/(\d+)/i),t=navigator.userAgent.match(/(Edg)\/(\d+)/i),r=navigator.userAgent.match(/(Version)\/(\d+)(.+)(Safari)\/(\d+)/i);r?(n="safari",a=parseInt(r[2],10)):t?(n="edge",a=parseInt(t[2],10)):o&&(n=o[1].toLocaleLowerCase(),a=parseInt(o[2],10));var i={chrome:60,firefox:55,safari:11,edge:80}[n];return void 0!==i&&null!==a&&i<=a&&(e="modern"),e}(),p=c.substring(0,1),f=o.substring(0,1);if(d)try{self.performance.mark("wpm:start")}catch(e){}if(d){var u=self.location.origin,w=(e.webPixelsConfigList||[]).filter((function(e){return"app"===e.type.toLowerCase()}));for(let e=0;e<w.length;e++){s([u,"/wpm@",r,"/web-pixel-",w[e].id,"@",w[e].scriptVersion,"/sandbox/worker.",c,".js"].join(""),"script")}}var h,y,m,g,v,b,_,S,x=[a,"/wpm","/",f,r,p,".js"].join("");h={src:x,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);n(a),window.Shopify.analytics.replayQueue.forEach((function(e){a.publishCustomEvent(e[0],e[1],e[2])})),window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=a.publishCustomEvent,l.indexOf("web_pixels_visitor_api")>-1&&(window.Shopify.analytics.visitor=a.visitor)}},onerror:function(){var n=(e.storefrontBaseUrl?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin)+"/.well-known/shopify/monorail/unstable/produce_batch",a=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:x+" has failed to load"},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(n,a))return!0}catch(e){}const o=new XMLHttpRequest;try{return o.open("POST",n,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(a),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}},y=document.createElement("script"),m=h.src,g=h.async||!0,v=h.onload,b=h.onerror,_=document.head,S=document.body,y.async=g,y.src=m,v&&y.addEventListener("load",v),b&&y.addEventListener("error",b),_?_.appendChild(y):S?S.appendChild(y):console.error("Did not find a head or body element to append the script")})({shopId: 78895415597,storefrontBaseUrl: "https://smilekitbrasil.com.br",cdnBaseUrl: "https://smilekitbrasil.com.br/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0559","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0559","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");},"https://smilekitbrasil.com.br/cdn","browser","0.0.363","a77fdd7bw358f7696p66f33b40maf4a7d89",["web_pixels_async_pixel_refactor"]);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'BRL';
+var meta = {"page":{"pageType":"home"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 78895415597,
+      theme_id: 153797591341,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//smilekitbrasil.com.br/cdn/s/trekkie.storefront.b31f2032c0d69b240cfbd23a96457e984a0bbbac.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//smilekitbrasil.com.br/cdn/s/trekkie.storefront.b31f2032c0d69b240cfbd23a96457e984a0bbbac.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//smilekitbrasil.com.br/cdn/s/trekkie.storefront.b31f2032c0d69b240cfbd23a96457e984a0bbbac.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":78895415597,"isMerchantRequest":null,"themeId":153797591341,"themeCityHash":"13765097989985849209","contentLanguage":"pt-BR","currency":"BRL"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Pinterest Pixel":{"pixelId":"2613825536547"},"Google Gtag Pixel":{"conversionId":"G-T2HFHGLD3Z","eventLabels":[{"type":"purchase","action_label":"G-T2HFHGLD3Z"},{"type":"page_view","action_label":"G-T2HFHGLD3Z"},{"type":"view_item","action_label":"G-T2HFHGLD3Z"},{"type":"search","action_label":"G-T2HFHGLD3Z"},{"type":"add_to_cart","action_label":"G-T2HFHGLD3Z"},{"type":"begin_checkout","action_label":"G-T2HFHGLD3Z"},{"type":"add_payment_info","action_label":"G-T2HFHGLD3Z"}],"targetCountry":"US"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+  
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//smilekitbrasil.com.br/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Sense";
+  window.BOOMR.themeVersion = "9.0.0";
+  window.BOOMR.shopId = 78895415597;
+  window.BOOMR.themeId = 153797591341;
+  window.BOOMR.renderRegion = "gcp-us-east1";
+  window.BOOMR.url =
+    "https://smilekitbrasil.com.br/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+</head>
+  
+
+  <body class="gradient">
+   <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGLBD3R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <a class="skip-to-content-link button visually-hidden" href="#MainContent">
+      Pular para o conteúdo
+    </a>
+
+<script src="//smilekitbrasil.com.br/cdn/shop/t/2/assets/cart.js?v=21876159511507192261688243510" defer="defer"></script>
+
+<style>
+  .drawer {
+    visibility: hidden;
+  }
+</style>
+
+<cart-drawer class="drawer is-empty">
+  <div id="CartDrawer" class="cart-drawer">
+    <div id="CartDrawer-Overlay" class="cart-drawer__overlay"></div>
+    <div
+      class="drawer__inner"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Carrinho"
+      tabindex="-1"
+    ><div class="drawer__inner-empty">
+          <div class="cart-drawer__warnings center">
+            <div class="cart-drawer__empty-content">
+              <h2 class="cart__empty-text">O carrinho está vazio</h2>
+              <button
+                class="drawer__close"
+                type="button"
+                onclick="this.closest('cart-drawer').close()"
+                aria-label="Fechar"
+              >
+                <svg
+  xmlns="http://www.w3.org/2000/svg"
+  aria-hidden="true"
+  focusable="false"
+  class="icon icon-close"
+  fill="none"
+  viewBox="0 0 18 17"
+>
+  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</svg>
+
+              </button>
+              <a href="/collections/all" class="button">
+                Voltar à loja
+              </a></div>
+          </div></div><div class="drawer__header">
+        <h2 class="drawer__heading">Carrinho</h2>
+        <button
+          class="drawer__close"
+          type="button"
+          onclick="this.closest('cart-drawer').close()"
+          aria-label="Fechar"
+        >
+          <svg
+  xmlns="http://www.w3.org/2000/svg"
+  aria-hidden="true"
+  focusable="false"
+  class="icon icon-close"
+  fill="none"
+  viewBox="0 0 18 17"
+>
+  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</svg>
+
+        </button>
+      </div>
+      <cart-drawer-items
+        
+          class=" is-empty"
+        
+      >
+        <form
+          action="/cart"
+          id="CartDrawer-Form"
+          class="cart__contents cart-drawer__form"
+          method="post"
+        >
+          <div id="CartDrawer-CartItems" class="drawer__contents js-contents"><p id="CartDrawer-LiveRegionText" class="visually-hidden" role="status"></p>
+            <p id="CartDrawer-LineItemStatus" class="visually-hidden" aria-hidden="true" role="status">
+              Carregando...
+            </p>
+          </div>
+          <div id="CartDrawer-CartErrors" role="alert"></div>
+        </form>
+      </cart-drawer-items>
+      <div class="drawer__footer"><!-- Start blocks -->
+        <!-- Subtotals -->
+
+        <div class="cart-drawer__footer" >
+          <div class="totals" role="status">
+            <h2 class="totals__subtotal">Subtotal</h2>
+            <p class="totals__subtotal-value">R$ 0,00 BRL</p>
+          </div>
+
+          <div></div>
+
+          <small class="tax-note caption-large rte">
+</small>
+        </div>
+
+        <!-- CTAs -->
+
+        <div class="cart__ctas" >
+          <noscript>
+            <button type="submit" class="cart__update-button button button--secondary" form="CartDrawer-Form">
+              Atualizar
+            </button>
+          </noscript>
+
+          <button
+            type="submit"
+            id="CartDrawer-Checkout"
+            class="cart__checkout-button button"
+            name="checkout"
+            form="CartDrawer-Form"
+            
+              disabled
+            
+          >
+            FINALIZAR A COMPRA
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</cart-drawer>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    function isIE() {
+      const ua = window.navigator.userAgent;
+      const msie = ua.indexOf('MSIE ');
+      const trident = ua.indexOf('Trident/');
+
+      return msie > 0 || trident > 0;
+    }
+
+    if (!isIE()) return;
+    const cartSubmitInput = document.createElement('input');
+    cartSubmitInput.setAttribute('name', 'checkout');
+    cartSubmitInput.setAttribute('type', 'hidden');
+    document.querySelector('#cart').appendChild(cartSubmitInput);
+    document.querySelector('#checkout').addEventListener('click', function (event) {
+      document.querySelector('#cart').submit();
+    });
+  });
+</script>
+<!-- BEGIN sections: header-group -->
+<div id="shopify-section-sections--19771921924397__announcement-bar" class="shopify-section shopify-section-group-header-group announcement-bar-section"><div class="announcement-bar color-accent-1 gradient" role="region" aria-label="Comunicado" ><div class="page-width">
+                <p class="announcement-bar__message center h5">
+                  <span>✨FRETE GRÁTIS SOMENTE HOJE✨</span></p>
+              </div></div>
+</div><div id="shopify-section-sections--19771921924397__header" class="shopify-section shopify-section-group-header-group section-header"><link rel="stylesheet" href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-list-menu.css?v=151968516119678728991688243511" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-search.css?v=184225813856820874251688243511" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-menu-drawer.css?v=94074963897493609391688243511" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-cart-notification.css?v=108833082844665799571688243510" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-cart-items.css?v=29412722223528841861688243510" media="print" onload="this.media='all'"><link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-cart-drawer.css?v=35930391193938886121688243510" rel="stylesheet" type="text/css" media="all" />
+  <link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-cart.css?v=137189108867858280361688243510" rel="stylesheet" type="text/css" media="all" />
+  <link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-totals.css?v=86168756436424464851688243511" rel="stylesheet" type="text/css" media="all" />
+  <link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-price.css?v=121341674135266472761688949138" rel="stylesheet" type="text/css" media="all" />
+  <link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-discounts.css?v=152760482443307489271688243510" rel="stylesheet" type="text/css" media="all" />
+  <link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-loading-overlay.css?v=167310470843593579841688243511" rel="stylesheet" type="text/css" media="all" />
+<noscript><link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-list-menu.css?v=151968516119678728991688243511" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-search.css?v=184225813856820874251688243511" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-menu-drawer.css?v=94074963897493609391688243511" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-cart-notification.css?v=108833082844665799571688243510" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-cart-items.css?v=29412722223528841861688243510" rel="stylesheet" type="text/css" media="all" /></noscript>
+
+<style>
+  header-drawer {
+    justify-self: start;
+    margin-left: -1.2rem;
+  }.scrolled-past-header .header__heading-logo-wrapper {
+      width: 75%;
+    }@media screen and (min-width: 990px) {
+      header-drawer {
+        display: none;
+      }
+    }.menu-drawer-container {
+    display: flex;
+  }
+
+  .list-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .list-menu--inline {
+    display: inline-flex;
+    flex-wrap: wrap;
+  }
+
+  summary.list-menu__item {
+    padding-right: 2.7rem;
+  }
+
+  .list-menu__item {
+    display: flex;
+    align-items: center;
+    line-height: calc(1 + 0.3 / var(--font-body-scale));
+  }
+
+  .list-menu__item--link {
+    text-decoration: none;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    line-height: calc(1 + 0.8 / var(--font-body-scale));
+  }
+
+  @media screen and (min-width: 750px) {
+    .list-menu__item--link {
+      padding-bottom: 0.5rem;
+      padding-top: 0.5rem;
+    }
+  }
+</style><style data-shopify>.header {
+    padding-top: 4px;
+    padding-bottom: 0px;
+  }
+
+  .section-header {
+    position: sticky; /* This is for fixing a Safari z-index issue. PR #2147 */
+    margin-bottom: 6px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-header {
+      margin-bottom: 8px;
+    }
+  }
+
+  @media screen and (min-width: 990px) {
+    .header {
+      padding-top: 8px;
+      padding-bottom: 0px;
+    }
+  }</style><script src="//smilekitbrasil.com.br/cdn/shop/t/2/assets/details-disclosure.js?v=153497636716254413831688243511" defer="defer"></script>
+<script src="//smilekitbrasil.com.br/cdn/shop/t/2/assets/details-modal.js?v=4511761896672669691688243511" defer="defer"></script>
+<script src="//smilekitbrasil.com.br/cdn/shop/t/2/assets/cart-notification.js?v=160453272920806432391688243510" defer="defer"></script>
+<script src="//smilekitbrasil.com.br/cdn/shop/t/2/assets/search-form.js?v=113639710312857635801688243512" defer="defer"></script><script src="//smilekitbrasil.com.br/cdn/shop/t/2/assets/cart-drawer.js?v=44260131999403604181688243510" defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
+  <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/>
+  </symbol>
+
+  <symbol id="icon-reset" class="icon icon-close"  fill="none" viewBox="0 0 18 18" stroke="currentColor">
+    <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2"/>
+    <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/>
+    <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/>
+  </symbol>
+
+  <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+    <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+  </symbol>
+</svg><sticky-header data-sticky-type="reduce-logo-size" class="header-wrapper color-background-1 gradient">
+  <header class="header header--middle-left header--mobile-center page-width header--has-menu"><header-drawer data-breakpoint="tablet">
+        <details id="Details-menu-drawer-container" class="menu-drawer-container">
+          <summary class="header__icon header__icon--menu header__icon--summary link focus-inset" aria-label="Menu">
+            <span>
+              <svg
+  xmlns="http://www.w3.org/2000/svg"
+  aria-hidden="true"
+  focusable="false"
+  class="icon icon-hamburger"
+  fill="none"
+  viewBox="0 0 18 16"
+>
+  <path d="M1 .5a.5.5 0 100 1h15.71a.5.5 0 000-1H1zM.5 8a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1A.5.5 0 01.5 8zm0 7a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1a.5.5 0 01-.5-.5z" fill="currentColor">
+</svg>
+
+              <svg
+  xmlns="http://www.w3.org/2000/svg"
+  aria-hidden="true"
+  focusable="false"
+  class="icon icon-close"
+  fill="none"
+  viewBox="0 0 18 17"
+>
+  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+</svg>
+
+            </span>
+          </summary>
+          <div id="menu-drawer" class="gradient menu-drawer motion-reduce" tabindex="-1">
+            <div class="menu-drawer__inner-container">
+              <div class="menu-drawer__navigation-container">
+                <nav class="menu-drawer__navigation">
+                  <ul class="menu-drawer__menu has-submenu list-menu" role="list"><li><a href="/" class="menu-drawer__menu-item list-menu__item link link--text focus-inset menu-drawer__menu-item--active" aria-current="page">
+                            Início
+                          </a></li><li><a href="/pages/rastrear-pedido" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                            Rastrear Pedido
+                          </a></li><li><a href="/pages/contact" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                            Entrar em contato
+                          </a></li></ul>
+                </nav>
+                <div class="menu-drawer__utility-links"><ul class="list list-social list-unstyled" role="list"><li class="list-social__item">
+                        <a href="https://facebook.com/smilekitbrasil" class="list-social__link link"><svg aria-hidden="true" focusable="false" class="icon icon-facebook" viewBox="0 0 18 18">
+  <path fill="currentColor" d="M16.42.61c.27 0 .5.1.69.28.19.2.28.42.28.7v15.44c0 .27-.1.5-.28.69a.94.94 0 01-.7.28h-4.39v-6.7h2.25l.31-2.65h-2.56v-1.7c0-.4.1-.72.28-.93.18-.2.5-.32 1-.32h1.37V3.35c-.6-.06-1.27-.1-2.01-.1-1.01 0-1.83.3-2.45.9-.62.6-.93 1.44-.93 2.53v1.97H7.04v2.65h2.24V18H.98c-.28 0-.5-.1-.7-.28a.94.94 0 01-.28-.7V1.59c0-.27.1-.5.28-.69a.94.94 0 01.7-.28h15.44z">
+</svg>
+<span class="visually-hidden">Facebook</span>
+                        </a>
+                      </li><li class="list-social__item">
+                        <a href="http://instagram.com/smilekitbrasil" class="list-social__link link"><svg aria-hidden="true" focusable="false" class="icon icon-instagram" viewBox="0 0 18 18">
+  <path fill="currentColor" d="M8.77 1.58c2.34 0 2.62.01 3.54.05.86.04 1.32.18 1.63.3.41.17.7.35 1.01.66.3.3.5.6.65 1 .12.32.27.78.3 1.64.05.92.06 1.2.06 3.54s-.01 2.62-.05 3.54a4.79 4.79 0 01-.3 1.63c-.17.41-.35.7-.66 1.01-.3.3-.6.5-1.01.66-.31.12-.77.26-1.63.3-.92.04-1.2.05-3.54.05s-2.62 0-3.55-.05a4.79 4.79 0 01-1.62-.3c-.42-.16-.7-.35-1.01-.66-.31-.3-.5-.6-.66-1a4.87 4.87 0 01-.3-1.64c-.04-.92-.05-1.2-.05-3.54s0-2.62.05-3.54c.04-.86.18-1.32.3-1.63.16-.41.35-.7.66-1.01.3-.3.6-.5 1-.65.32-.12.78-.27 1.63-.3.93-.05 1.2-.06 3.55-.06zm0-1.58C6.39 0 6.09.01 5.15.05c-.93.04-1.57.2-2.13.4-.57.23-1.06.54-1.55 1.02C1 1.96.7 2.45.46 3.02c-.22.56-.37 1.2-.4 2.13C0 6.1 0 6.4 0 8.77s.01 2.68.05 3.61c.04.94.2 1.57.4 2.13.23.58.54 1.07 1.02 1.56.49.48.98.78 1.55 1.01.56.22 1.2.37 2.13.4.94.05 1.24.06 3.62.06 2.39 0 2.68-.01 3.62-.05.93-.04 1.57-.2 2.13-.41a4.27 4.27 0 001.55-1.01c.49-.49.79-.98 1.01-1.56.22-.55.37-1.19.41-2.13.04-.93.05-1.23.05-3.61 0-2.39 0-2.68-.05-3.62a6.47 6.47 0 00-.4-2.13 4.27 4.27 0 00-1.02-1.55A4.35 4.35 0 0014.52.46a6.43 6.43 0 00-2.13-.41A69 69 0 008.77 0z"/>
+  <path fill="currentColor" d="M8.8 4a4.5 4.5 0 100 9 4.5 4.5 0 000-9zm0 7.43a2.92 2.92 0 110-5.85 2.92 2.92 0 010 5.85zM13.43 5a1.05 1.05 0 100-2.1 1.05 1.05 0 000 2.1z">
+</svg>
+<span class="visually-hidden">Instagram</span>
+                        </a>
+                      </li><li class="list-social__item">
+                        <a href="https://tiktok.com/@smilekitbrasil" class="list-social__link link"><svg
+  aria-hidden="true"
+  focusable="false"
+  class="icon icon-tiktok"
+  width="16"
+  height="18"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path d="M8.02 0H11s-.17 3.82 4.13 4.1v2.95s-2.3.14-4.13-1.26l.03 6.1a5.52 5.52 0 11-5.51-5.52h.77V9.4a2.5 2.5 0 101.76 2.4L8.02 0z" fill="currentColor">
+</svg>
+<span class="visually-hidden">TikTok</span>
+                        </a>
+                      </li><li class="list-social__item">
+                        <a href="https://www.youtube.com/channel/UCN4KLnLdiQK3VTIrKmOKq3w" class="list-social__link link"><svg aria-hidden="true" focusable="false" class="icon icon-youtube" viewBox="0 0 100 70">
+  <path d="M98 11c2 7.7 2 24 2 24s0 16.3-2 24a12.5 12.5 0 01-9 9c-7.7 2-39 2-39 2s-31.3 0-39-2a12.5 12.5 0 01-9-9c-2-7.7-2-24-2-24s0-16.3 2-24c1.2-4.4 4.6-7.8 9-9 7.7-2 39-2 39-2s31.3 0 39 2c4.4 1.2 7.8 4.6 9 9zM40 50l26-15-26-15v30z" fill="currentColor">
+</svg>
+<span class="visually-hidden">YouTube</span>
+                        </a>
+                      </li></ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </details>
+      </header-drawer><h1 class="header__heading"><a href="/" class="header__heading-link link link--text focus-inset"><div class="header__heading-logo-wrapper">
+                
+                <img src="//smilekitbrasil.com.br/cdn/shop/files/smilekit_1080_x_500_px_1080_x_250_px_2.png?v=1688318412&amp;width=600" alt="smilekit" srcset="//smilekitbrasil.com.br/cdn/shop/files/smilekit_1080_x_500_px_1080_x_250_px_2.png?v=1688318412&amp;width=140 140w, //smilekitbrasil.com.br/cdn/shop/files/smilekit_1080_x_500_px_1080_x_250_px_2.png?v=1688318412&amp;width=210 210w, //smilekitbrasil.com.br/cdn/shop/files/smilekit_1080_x_500_px_1080_x_250_px_2.png?v=1688318412&amp;width=280 280w" width="140" height="32.407407407407405" loading="eager" class="header__heading-logo motion-reduce" sizes="(max-width: 280px) 50vw, 140px">
+              </div></a></h1><nav class="header__inline-menu">
+          <ul class="list-menu list-menu--inline" role="list"><li><a href="/" class="header__menu-item list-menu__item link link--text focus-inset" aria-current="page">
+                    <span class="header__active-menu-item">Início</span>
+                  </a></li><li><a href="/pages/rastrear-pedido" class="header__menu-item list-menu__item link link--text focus-inset">
+                    <span>Rastrear Pedido</span>
+                  </a></li><li><a href="/pages/contact" class="header__menu-item list-menu__item link link--text focus-inset">
+                    <span>Entrar em contato</span>
+                  </a></li></ul>
+        </nav><div class="header__icons">
+      <div class="desktop-localization-wrapper">
+</div>
+      <details-modal class="header__search">
+        <details>
+          <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="Pesquisar">
+            <span>
+              <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false">
+                <use href="#icon-search">
+              </svg>
+              <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
+                <use href="#icon-close">
+              </svg>
+            </span>
+          </summary>
+          <div class="search-modal modal__content gradient" role="dialog" aria-modal="true" aria-label="Pesquisar">
+            <div class="modal-overlay"></div>
+            <div class="search-modal__content search-modal__content-top" tabindex="-1"><search-form class="search-modal__form"><form action="/search" method="get" role="search" class="search search-modal__form">
+                    <div class="field">
+                      <input class="search__input field__input"
+                        id="Search-In-Modal"
+                        type="search"
+                        name="q"
+                        value=""
+                        placeholder="Pesquisar">
+                      <label class="field__label" for="Search-In-Modal">Pesquisar</label>
+                      <input type="hidden" name="options[prefix]" value="last">
+                      <button type="reset" class="reset__button field__button hidden" aria-label="Limpar termo de pesquisa">
+                        <svg class="icon icon-close" aria-hidden="true" focusable="false">
+                          <use xlink:href="#icon-reset">
+                        </svg>
+                      </button>
+                      <button class="search__button field__button" aria-label="Pesquisar">
+                        <svg class="icon icon-search" aria-hidden="true" focusable="false">
+                          <use href="#icon-search">
+                        </svg>
+                      </button>
+                    </div></form></search-form><button type="button" class="search-modal__close-button modal__close-button link link--text focus-inset" aria-label="Fechar">
+                <svg class="icon icon-close" aria-hidden="true" focusable="false">
+                  <use href="#icon-close">
+                </svg>
+              </button>
+            </div>
+          </div>
+        </details>
+      </details-modal><a href="/cart" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble"><svg
+  class="icon icon-cart-empty"
+  aria-hidden="true"
+  focusable="false"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 40 40"
+  fill="none"
+>
+  <path d="m15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33l-.78-11.61zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1 -9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z" fill="currentColor" fill-rule="evenodd"/>
+</svg>
+<span class="visually-hidden">Carrinho</span></a>
+    </div>
+  </header>
+</sticky-header>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "smilekit",
+    
+      "logo": "https:\/\/smilekitbrasil.com.br\/cdn\/shop\/files\/smilekit_1080_x_500_px_1080_x_250_px_2.png?v=1688318412\u0026width=500",
+    
+    "sameAs": [
+      "",
+      "https:\/\/facebook.com\/smilekitbrasil",
+      "",
+      "http:\/\/instagram.com\/smilekitbrasil",
+      "https:\/\/tiktok.com\/@smilekitbrasil",
+      "",
+      "",
+      "https:\/\/www.youtube.com\/channel\/UCN4KLnLdiQK3VTIrKmOKq3w",
+      ""
+    ],
+    "url": "https:\/\/smilekitbrasil.com.br"
+  }
+</script>
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "smilekit",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https:\/\/smilekitbrasil.com.br\/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "url": "https:\/\/smilekitbrasil.com.br"
+    }
+  </script>
+</div>
+<!-- END sections: header-group -->
+
+    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+      <div id="shopify-section-template--19771921269037__pagefly-home" class="shopify-section">
+  
+  <script>
+    window.addEventListener('load', () => {
+      // fallback for gtag when not initialized
+      if(typeof window.gtag !== 'function') {
+        window.gtag = (str1, str2, obj) => {
+        }
+      }
+    }) 
+  </script>
+  
+<script>window.__pagefly_global_settings__={fontFamilies:["Playfair Display","Lato","Source Sans Pro"],selectedFonts:{"Playfair Display":{"400":0},"Lato":{"400":0},"Source Sans Pro":{"400":0}}};</script>
+<link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/pagefly-main.css?v=101508702348923859031689707895" rel="stylesheet" type="text/css" media="all" />
+ <link rel="stylesheet" href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/pagefly.2536ec8e.css?v=126786461715713488151691363371">
+		  <style></style><div style="opacity:0" class="sc-cTAqQK ioVWj __pf __pf_Gi9_F8rB" id="__pf"><div data-pf-type="Body" class="sc-eySxxw jcsinr pf-1_"><div data-pf-type="Layout" class="sc-bXdNzS eAOkDW pf-2_"><div data-section-id="pf-b86a" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-3_ pf-bg-lazy"><div style="--cw:1170px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-4_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-5_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-6_"><b><span style="color: rgb(255, 255, 255);"><span style="color: rgb(61, 20, 102);"><span style="color: rgb(255, 255, 255);">O único no mundo capaz de branquear seus dentes<br>instantaneamente.</span></span></span></b></h3><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-8_"><b><span style="color: rgb(255, 255, 255);"><span style="color: rgb(153, 51, 255);"><span style="color: rgb(153, 51, 255);"></span><span style="color: rgb(61, 20, 102);"></span><span style="color: rgb(61, 20, 102);"></span></span></span><span style="color: rgb(61, 20, 102);"></span></b><span style="color: rgb(255, 255, 255);">O único que utiliza a tecnologia das cores para branquear os dentes sem agredir o esmalte e sem causar sensibilidade!</span></h3><a data-to-section="pf-27b0" data-offset="{&quot;all&quot;:50,&quot;laptop&quot;:50,&quot;tablet&quot;:50,&quot;mobile&quot;:50}" href="#" tabindex="0" spellcheck="false" data-pf-type="Button2" data-animation="pulse" class="sc-lcepkR eacNtQ pf-10_ animate-pulse-shrink">COMPRAR AGORA</a></div></div><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-12_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_2_1_7977b67e-41e2-40ae-ab38-f077d16261d8_500x.png?v=1690071115" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_2_1_7977b67e-41e2-40ae-ab38-f077d16261d8.png?v=1690071115 1536w, https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_2_1_7977b67e-41e2-40ae-ab38-f077d16261d8_500x.png?v=1690071115 320w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1/1" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-13_"/></div></div></div></div></div><div data-section-id="pf-9f66" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-14_ pf-bg-lazy"><div style="--cw:1170px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-15_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-sm:4;--c-md:4;--c-lg:4"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-16_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_2_3_360x.png?v=1690073930" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_2_3.png?v=1690073930 1536w" width="1080" height="296" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1080 / 296" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-17_"/></div></div><div class="pf-c" style="--c-xs:12;--c-sm:4;--c-md:4;--c-lg:4"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-18_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_3_360x.png?v=1690073930" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_3.png?v=1690073930 1536w" width="1080" height="315" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1080 / 315" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-19_"/></div></div><div class="pf-c" style="--c-xs:12;--c-sm:4;--c-md:4;--c-lg:4"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-20_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_15_360x.png?v=1690339644" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_15.png?v=1690339644 1536w" width="1080" height="312" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1080 / 312" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-21_"/></div></div></div></div></div><div data-section-id="pf-709d" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-22_"><div style="--cw:826px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-23_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-24_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-25_"><span style="color: rgb(255, 255, 255);">CHEGAMOS AO BRASIL</span></h3><div class="sc-efQSVx kdrjec pf-27_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-28_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_12_100x.png?v=1690334119" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_12.png?v=1690334119 1536w" width="505" height="512" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1/1" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-29_"/><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_11_439x.png?v=1690334322" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_11.png?v=1690334322 1536w" width="1080" height="236" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1080 / 236" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-30_"/></div></div></div><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-31_"><span style="color: rgb(46, 42, 57);">APRESENTADO&nbsp;NAS MAIORES REDES DE CANAIS&nbsp;NORTE-AMERICANA:</span></h3><div class="sc-efQSVx kdrjec pf-33_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-34_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_4_3_78c57d12-0fdf-48f8-9c18-9d419e6465f7_120x.png?v=1690335051" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_4_3_78c57d12-0fdf-48f8-9c18-9d419e6465f7.png?v=1690335051 1536w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1/1" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-35_"/><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_13_250x.png?v=1690335051" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_13.png?v=1690335051 1536w" width="1080" height="436" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1080 / 436" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-36_"/><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_14_120x.png?v=1690335051" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_14.png?v=1690335051 1536w" width="770" height="772" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1/1" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-37_"/></div></div></div></div></div></div></div></div><div data-section-id="pf-4e10" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-38_"><div style="--cw:1170px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-39_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-40_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-41_"><b><span style="color: rgb(112, 105, 188);"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><span style="color: rgb(255, 255, 255);"></span></font></font></span></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><span style="color: rgb(255, 255, 255);">A evolução dos<br>clareadores convencionais</span></font></font></h3></div></div></div><div class="sc-efQSVx kdrjec pf-43_ pf-r pf-c-cm pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-44_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-45_ pf-hide">A tecnologia das cores</h3><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-47_"><span style="color: rgb(46, 42, 57);"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Enquanto os clareadores comuns causam sensibilidade, desg</font></font><span style="color: rgb(46, 42, 57);"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">aste do esmalte dental e dura um longo período para alcançar o resultado desejado, o smilekit é&nbsp;instantâneo&nbsp;e possui agentes&nbsp;naturais que não agridem os dentes. </font></font><br><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">A aplicação do corretor dental permite que manchas e imperfeições fiquem camufladas, dando ao paciente a satisfação de um sorriso mais branco imediatamente.</font></font></span></h3></div></div><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-49_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_4_4_500x.png?v=1691172778" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_4_4.png?v=1691172778 1536w, https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_4_4_500x.png?v=1691172778 320w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1/1" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-50_"/></div></div></div></div></div><div data-section-id="pf-1a60" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-51_ pf-bg-lazy"><div style="--cw:1170px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-52_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-53_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-54_"><b><span style="color: rgb(112, 105, 188);"><span style="color: rgb(255, 255, 255);"><span style="background-color: rgb(112, 105, 188);"><span style="background-color: rgb(112, 105, 188);"></span>Resultados comprovados</span></span></span></b></h3><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-56_"><span style="color: rgb(255, 255, 255);"><span style="color: rgb(112, 105, 188);"><span style="color: rgb(187, 187, 187);"><span style="color: rgb(136, 136, 136);"><span style="color: rgb(68, 68, 68);"><span style="color: rgb(112, 105, 188);">A combinação perfeita do tom violeta&nbsp;permite que qualquer tom amarelado seja cancelado criando um efeito óptico de branqueamento indolor e não invasivo.</span></span></span></span></span><br></span></h3><div data-pf-type="Slideshow" class="sc-jJoQJp hZYeCf pf-58_"><div data-id="slider-1796c40f-f236-4773-9c4d-2669f2c9cfbe-all" class="pf-slider scrollfix"><div class="pf-slide"><div style="display:block" class="sc-dusCKN gGUlPA pf-59_" data-pf-type="SlideshowSlide"><div class="sc-efQSVx kdrjec pf-60_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-61_"><div data-pf-type="Image" class="sc-TBWPX ebxtzr pf-62_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/15_1200x.png?v=1691171162" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/15.png?v=1691171162 1536w" width="900" height="1200" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy"/></div></div></div></div></div></div><div class="pf-slide"><div style="display:block" class="sc-dusCKN gGUlPA pf-63_" data-pf-type="SlideshowSlide"><div class="sc-efQSVx kdrjec pf-64_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-65_"><div data-pf-type="Image" class="sc-TBWPX ebxtzr pf-66_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/26_1200x.png?v=1691171162" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/26.png?v=1691171162 1536w" width="900" height="1200" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy"/></div></div></div></div></div></div><div class="pf-slide"><div style="display:block" class="sc-dusCKN gGUlPA pf-67_" data-pf-type="SlideshowSlide"><div class="sc-efQSVx kdrjec pf-68_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-69_"><div data-pf-type="Image" class="sc-TBWPX ebxtzr pf-70_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/16_1200x.png?v=1691171162" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/16.png?v=1691171162 1536w" width="900" height="1200" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy"/></div></div></div></div></div></div><div class="pf-slide"><div style="display:block" class="sc-dusCKN gGUlPA pf-71_" data-pf-type="SlideshowSlide"><div class="sc-efQSVx kdrjec pf-72_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-73_"><div data-pf-type="Image" class="sc-TBWPX ebxtzr pf-74_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/18_1200x.png?v=1691171162" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/18.png?v=1691171162 1536w" width="900" height="1200" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy"/></div></div></div></div></div></div><div class="pf-slide"><div style="display:block" class="sc-dusCKN gGUlPA pf-75_" data-pf-type="SlideshowSlide"><div class="sc-efQSVx kdrjec pf-76_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-77_"><div data-pf-type="Image" class="sc-TBWPX ebxtzr pf-78_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/19_1200x.png?v=1691171162" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/19.png?v=1691171162 1536w" width="900" height="1200" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy"/></div></div></div></div></div></div><div class="pf-slide"><div style="display:block" class="sc-dusCKN gGUlPA pf-79_" data-pf-type="SlideshowSlide"><div class="sc-efQSVx kdrjec pf-80_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-81_"><div data-pf-type="Image" class="sc-TBWPX ebxtzr pf-82_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/20_1200x.png?v=1691171162" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/20.png?v=1691171162 1536w" width="900" height="1200" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy"/></div></div></div></div></div></div><div class="pf-slide"><div style="display:block" class="sc-dusCKN gGUlPA pf-83_" data-pf-type="SlideshowSlide"><div class="sc-efQSVx kdrjec pf-84_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-85_"><div data-pf-type="Image" class="sc-TBWPX ebxtzr pf-86_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/27_1200x.png?v=1691171162" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/27.png?v=1691171162 1536w" width="900" height="1200" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy"/></div></div></div></div></div></div><div class="pf-slide"><div style="display:block" class="sc-dusCKN gGUlPA pf-87_" data-pf-type="SlideshowSlide"><div class="sc-efQSVx kdrjec pf-88_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-89_"><div data-pf-type="Image" class="sc-TBWPX ebxtzr pf-90_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/16_1200x.png?v=1691171162" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/16.png?v=1691171162 1536w" width="900" height="1200" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy"/></div></div></div></div></div></div><div class="pf-slide"><div style="display:block" class="sc-dusCKN gGUlPA pf-91_" data-pf-type="SlideshowSlide"><div class="sc-efQSVx kdrjec pf-92_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-93_"><div data-pf-type="Image" class="sc-TBWPX ebxtzr pf-94_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/23_1200x.png?v=1691171162" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/23.png?v=1691171162 1536w" width="900" height="1200" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy"/></div></div></div></div></div></div><div class="pf-slide"><div style="display:block" class="sc-dusCKN gGUlPA pf-95_" data-pf-type="SlideshowSlide"><div class="sc-efQSVx kdrjec pf-96_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-97_"><div data-pf-type="Image" class="sc-TBWPX ebxtzr pf-98_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/24_1200x.png?v=1691171162" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/24.png?v=1691171162 1536w" width="900" height="1200" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy"/></div></div></div></div></div></div><div class="pf-slide"><div style="display:block" class="sc-dusCKN gGUlPA pf-99_" data-pf-type="SlideshowSlide"><div class="sc-efQSVx kdrjec pf-100_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-101_"><div data-pf-type="Image" class="sc-TBWPX ebxtzr pf-102_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/22_1200x.png?v=1691171162" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/22.png?v=1691171162 1536w" width="900" height="1200" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy"/></div></div></div></div></div></div><div class="pf-slide"><div style="display:block" class="sc-dusCKN gGUlPA pf-103_" data-pf-type="SlideshowSlide"><div class="sc-efQSVx kdrjec pf-104_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-105_"><div data-pf-type="Image" class="sc-TBWPX ebxtzr pf-106_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/17_1200x.png?v=1691171162" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/17.png?v=1691171162 1536w" width="900" height="1200" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy"/></div></div></div></div></div></div><div class="pf-slide"><div style="display:block" class="sc-dusCKN gGUlPA pf-107_" data-pf-type="SlideshowSlide"><div class="sc-efQSVx kdrjec pf-108_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-109_"><div data-pf-type="Image" class="sc-TBWPX ebxtzr pf-110_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/25_1200x.png?v=1691171162" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/25.png?v=1691171162 1536w" width="900" height="1200" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy"/></div></div></div></div></div></div><button type="button" aria-label="Previous" class="pf-slider-prev nav-style-1 "></button><button type="button" aria-label="Next" class="pf-slider-next nav-style-1 "></button></div></div></div></div></div><div class="sc-efQSVx kdrjec pf-111_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-112_"><a data-to-section="pf-27b0" data-offset="{&quot;all&quot;:50,&quot;laptop&quot;:50,&quot;tablet&quot;:50,&quot;mobile&quot;:50}" href="#" tabindex="0" spellcheck="false" data-pf-type="Button2" data-animation="pulse" class="sc-lcepkR eacNtQ pf-113_ animate-pulse-shrink">COMPRAR AGORA</a></div></div></div></div></div><div data-section-id="pf-1275" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-115_ pf-bg-lazy"><div style="--cw:1170px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-116_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-117_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_3_1_d84869df-3a08-4653-a647-cc52f038a458_500x.png?v=1690140695" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_3_1_d84869df-3a08-4653-a647-cc52f038a458.png?v=1690140695 1536w, https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_3_1_d84869df-3a08-4653-a647-cc52f038a458_500x.png?v=1690140695 320w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1/1" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-118_"/></div></div><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-119_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-120_ pf-bg-lazy"><span style="color: rgb(112, 105, 188);"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PORQUE NOSSA FÓRMULA É REVOLUCIONÁRIA?</font></font></font></font><br><br></span></h3><div class="sc-efQSVx kdrjec pf-122_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-123_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-124_ pf-bg-lazy"><span contenteditable="true" placeholder="Enter text..." data-text-editing="true" spellcheck="false" class="sc-nVkyK djyLlI"><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Você provavelmente já ouviu falar nos matizadores de cabelo que usam principalmente a sobreposição das cores para neutralizar o tom amarelo. </font></font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">A fórmula avançada do smilekit™ V34 se assemelha aos matizadores de cabelos. </font></font></font></font><br><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Foi desenvolvido um tom perfeito de cor violeta especialmente para os dentes que complementam a cor amarela na roda de cores. </font></font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nesse processo, uma cor neutraliza visualmente a outra.<br> </font></font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><br>Ao aplicar nos dentes, o Smilekit™ V34 cria uma fina camada violeta, neutralizando visualmente os tons amarelados gerando&nbsp;um sorriso mais branco e brilhante de forma instantânea e nada invasiva. </font></font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Os efeitos são temporários e você pode usar o produto quando quiser sem causar nenhum tipo de dano à sua saúde bucal. </font></font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Simples né?
+</font></font></font></font></span></h3></div></div></div></div></div></div></div></div><div data-section-id="pf-4640" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-126_"><div style="--cw:1107px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-127_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-128_"><h2 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-129_"><i class="sc-faUpoM cTsgqM pf-130_ pfa pfa-star" data-pf-type="Icon"></i><font color="#ffffff">Diversos Benefícios</font></h2></div></div></div><div class="sc-efQSVx kdrjec pf-131_ pf-r pf-r-eh" style="--s-xs:14px;--s-sm:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-132_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_8_500x.png?v=1690165536" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_8.png?v=1690165536 1536w, https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_8_500x.png?v=1690165536 320w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1080 / 1080" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-133_"/></div></div><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-134_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_7_bf70515e-49d3-4383-b82e-59051419b903_410x.png?v=1690166820" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_7_bf70515e-49d3-4383-b82e-59051419b903.png?v=1690166820 1536w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1/1" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-135_"/><div class="sc-efQSVx kdrjec pf-136_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-137_"><a data-to-section="pf-27b0" data-offset="{&quot;all&quot;:50,&quot;laptop&quot;:50,&quot;tablet&quot;:50,&quot;mobile&quot;:50}" href="#" tabindex="0" spellcheck="false" data-pf-type="Button2" data-animation="pulse" class="sc-lcepkR eacNtQ pf-138_ animate-pulse-shrink">COMPRAR AGORA</a></div></div></div></div></div></div></div></div><div data-section-id="pf-ade8" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-140_"><div style="--cw:1136px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-141_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-142_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-143_"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><span><span style="color: rgb(112, 105, 188);"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Estes produtos fazem parte da sua rotina?</font></font></font></font></span></span></font></font></font></font></h3><div class="sc-efQSVx kdrjec pf-145_ pf-r pf-c-cm pf-r-eh" style="--s-xs:19px;--s-sm:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-146_"><div class="sc-efQSVx kdrjec pf-147_ pf-r pf-c-cm pf-r-eh" style="--s-xs:9px;--s-sm:15px;--s-lg:30px" data-pf-type="Row"><div class="pf-c" style="--c-xs:3;--c-sm:6;--c-md:3;--c-lg:3"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-148_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_3_7bff072b-bba8-44f8-aeaf-a51e2b398453_166x.png?v=1690169993" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_3_7bff072b-bba8-44f8-aeaf-a51e2b398453.png?v=1690169993 1536w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1/1" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-149_"/></div></div><div class="pf-c" style="--c-xs:3;--c-sm:6;--c-md:3;--c-lg:3"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-150_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_6_166x.png?v=1690170195" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_6.png?v=1690170195 1536w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1/1" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-151_"/></div></div><div class="pf-c" style="--c-xs:3;--c-sm:6;--c-md:3;--c-lg:3"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-152_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_7_166x.png?v=1690170434" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_7.png?v=1690170434 1536w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1/1" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-153_"/></div></div><div class="pf-c" style="--c-xs:3;--c-sm:6;--c-md:3;--c-lg:3"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-154_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_9_166x.png?v=1690170434" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_9.png?v=1690170434 1536w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1/1" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-155_"/></div></div></div></div></div></div><p class="sc-ehCJOs iphVAH pf-156_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><span style="color: rgb(46, 42, 57);"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">O Smilekit™ diminui as manchas causadas por esses e vários outros produtos e alimentos que prejudicam o brilho do seu sorriso. Diferente dos clareamentos convencionais, você não precisa parar de consumir nada para obter resultados incríveis!</font></font></font></font></font></font></font></font></font></font></font></font></font></span><font style="vertical-align: inherit;"></font></font></font></p><a data-to-section="pf-27b0" data-offset="{&quot;all&quot;:50,&quot;laptop&quot;:50,&quot;tablet&quot;:50,&quot;mobile&quot;:50}" href="#" tabindex="0" spellcheck="false" data-pf-type="Button2" data-animation="pulse" class="sc-lcepkR eacNtQ pf-158_ animate-pulse-shrink">COMPRAR AGORA</a></div></div></div></div></div><div data-section-id="pf-e0dd" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-160_"><div style="--cw:1170px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-161_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-162_"><div data-pf-type="HTML.Video" class="sc-clIzBv bGyeBj pf-163_"><video width="100%" type="video/mp4" src="https://cdn.shopify.com/videos/c/o/v/8a01a1ee8e184c2f8c993f7fd17125f6.mp4" loop="" muted="" playsinline="" autoplay="" controlsList="nodownload" disablepictureinpicture=""></video></div></div></div><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-164_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-165_"><span style="color: rgb(46, 42, 57);">Não contém ácidos e abrasivos</span></h3><p class="sc-ehCJOs iphVAH pf-167_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3">A fórmula de&nbsp;Smilekit™ se destaca por sua formulação segura e não abrasiva. Ao contrário de muitos,&nbsp;nossa fórmula não&nbsp;contém ácidos ou substâncias abrasivas que possam causar danos ao esmalte dental ou prejudicar a saúde bucal.<br><br><span style="color: rgb(46, 42, 57);">Uma das principais vantagens é que pode ser usado diariamente, sem causar efeitos adversos ao esmalte dental. Dessa forma, os usuários podem desfrutar de um sorriso mais branco e brilhante todos os dias, sem preocupações com possíveis danos aos dentes.</span></p></div></div></div></div></div><div data-section-id="pf-098c" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-169_"><div style="--cw:1170px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-170_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-171_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-172_"><span style="color: rgb(46, 42, 57);">Não causa sensibilidade</span></h3><p class="sc-ehCJOs iphVAH pf-174_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3">A sensibilidade dentária ocorre quando a dentina (camada mais interna do dente) fica exposta devido ao desgaste do esmalte protetor ou retração das gengivas causados por compostos abrasivos e ácidos.<br><br>O v34 atua apenas na superfície dental&nbsp;e não entra em contato direto com a polpa dos dentes, onde estão localizados os nervos mais sensíveis.<br><br>Além disso, o smilekit™ cria uma camada que protege os túbulos dentinários minimizando ainda mais a probabilidade da sensibilidade e&nbsp;protegendo contra alimentos quentes, frios, doces e ácidos.</p></div></div><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-176_"><div data-pf-type="HTML.Video" class="sc-clIzBv bGyeBj pf-177_"><video width="100%" type="video/mp4" src="https://cdn.shopify.com/videos/c/o/v/5fe4c0031204413db5974c075f3a8ad9.mp4" loop="" muted="" playsinline="" autoplay="" controlsList="nodownload" disablepictureinpicture=""></video></div></div></div></div></div></div><div data-section-id="pf-197b" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-178_"><div style="--cw:1170px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-179_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-180_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Design_sem_nome_28_1_500x.png?v=1691171611" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Design_sem_nome_28_1.png?v=1691171611 1536w, https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Design_sem_nome_28_1_500x.png?v=1691171611 320w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1/1" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-181_"/></div></div><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-182_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-183_"><span style="color: rgb(46, 42, 57);">Ingredientes poderosos e naturais</span></h3><p class="sc-ehCJOs iphVAH pf-185_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3">O V34 é um produto formulado com uma combinação de ingredientes naturais poderosos, destinados a cuidar da saúde bucal e melhorar a aparência dos dentes. Vamos conhecer mais detalhadamente cada um desses ingredientes:</p><div class="sc-iqseJM kgDwyT pf-187_ pf-icon-right" data-scrolling="false" data-multiple="false" data-pf-type="Accordion"><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-188_"><button type="button" class="sc-jrQzAO eqVTRu pf-189_ pf-bg-lazy pf-anchor" data-header-id="c226a12c-0593-4425-bfc3-76ae636ac2e4" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span>Violeta</span></button><div data-pf-expandable="true" data-id="c226a12c-0593-4425-bfc3-76ae636ac2e4" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-191_"><div class="sc-efQSVx kdrjec pf-192_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-193_"><p class="sc-ehCJOs iphVAH pf-194_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3">O pigmento violeta presente em smilekit™ têm a função de neutralizar o amarelado nos dentes, ajudando a deixá-los com uma aparência mais branca e brilhante. Esse&nbsp;pigmento é utilizados para fins estéticos e não interferem&nbsp;na saúde bucal.</p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-196_"><button type="button" class="sc-jrQzAO eqVTRu pf-197_ pf-bg-lazy pf-anchor" data-header-id="fbef3e27-a219-48ae-97a0-160aef1cdc76" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span>Xilitol</span></button><div data-pf-expandable="true" data-id="fbef3e27-a219-48ae-97a0-160aef1cdc76" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-199_"><div class="sc-efQSVx kdrjec pf-200_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-201_"><p class="sc-ehCJOs iphVAH pf-202_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"> Xilitol é um adoçante natural encontrado em algumas frutas e vegetais. devido às suas propriedades antibacterianas. O xilitol ajuda a inibir o crescimento de bactérias na boca, reduzindo a formação de placas e prevenindo a cárie dentária. Além disso, ao contrário do açúcar comum, o xilitol não é fermentado pelas bactérias da boca, o que reduz a produção de ácidos que causam danos aos dentes.</p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-204_"><button type="button" class="sc-jrQzAO eqVTRu pf-205_ pf-bg-lazy pf-anchor" data-header-id="38aed7a0-160a-4f1c-9c76-fd35f6d70c34" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span>Menta Piperita</span></button><div data-pf-expandable="true" data-id="38aed7a0-160a-4f1c-9c76-fd35f6d70c34" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-207_"><div class="sc-efQSVx kdrjec pf-208_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-209_"><p class="sc-ehCJOs iphVAH pf-210_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3">A menta piperita é natural e&nbsp;proporciona&nbsp;uma sensação de frescor e limpeza após o uso. A menta é frequentemente utilizada em pastas de dente e outros produtos dentais devido ao seu sabor agradável e efeito refrescante, que ajuda a combater o mau hálito.</p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-212_"><button type="button" class="sc-jrQzAO eqVTRu pf-213_ pf-bg-lazy pf-anchor" data-header-id="a192f6ea-7519-4c05-8226-a12c05936425" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span>Hidroxiapatita</span></button><div data-pf-expandable="true" data-id="a192f6ea-7519-4c05-8226-a12c05936425" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-215_"><div class="sc-efQSVx kdrjec pf-216_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-217_"><p class="sc-ehCJOs iphVAH pf-218_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3">A hidroxiapatita é uma substância mineral natural que compõe cerca de 97% do esmalte dentário e também está presente na estrutura dos ossos. Quando utilizada em produtos dentais, como o V34, a hidroxiapatita pode ajudar a fortalecer o esmalte dos dentes, tornando-os mais resistentes a danos. Ela também pode contribuir para a remineralização de áreas enfraquecidas do esmalte.</p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-220_"><button type="button" class="sc-jrQzAO eqVTRu pf-221_ pf-bg-lazy pf-anchor" data-header-id="bfc376ae-636a-42e4-97a2-330890277775" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span>Vitamina E</span></button><div data-pf-expandable="true" data-id="bfc376ae-636a-42e4-97a2-330890277775" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-223_"><div class="sc-efQSVx kdrjec pf-224_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-225_"><p class="sc-ehCJOs iphVAH pf-226_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3">A vitamina E é um antioxidante natural que pode contribuir para a saúde das gengivas e tecidos bucais. Seu efeito antioxidante pode ajudar a proteger as células dos danos causados pelos radicais livres, proporcionando um ambiente mais saudável para a boca.</p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-228_"><button type="button" class="sc-jrQzAO eqVTRu pf-229_ pf-bg-lazy pf-anchor" data-header-id="97a23308-9027-4775-b20c-e932783f9a27" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span>Lista de Ingredientes</span></button><div data-pf-expandable="true" data-id="97a23308-9027-4775-b20c-e932783f9a27" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-231_"><div class="sc-efQSVx kdrjec pf-232_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-233_"><p class="sc-ehCJOs iphVAH pf-234_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3">Glicerina, Aqua/Água, Sorbitol, Sílica Hidratada, Xilitol, Polissorbato 80, Goma de Celulose, Óleo de Mentha Piperita (Hortelã-Pimenta), Fenoxietanol, Sucralose, Pirofosfato de Tetrasódio, CI17200/D&amp;C Vermelho Nº 33, CI42090/FD&amp;C Azul Nº 1, Etilhexilglicerina.</p></div></div></div></div></div></div></div></div></div><div class="sc-efQSVx kdrjec pf-236_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-237_"><a data-to-section="pf-27b0" data-offset="{&quot;all&quot;:50,&quot;laptop&quot;:50,&quot;tablet&quot;:50,&quot;mobile&quot;:50}" href="#" tabindex="0" spellcheck="false" data-pf-type="Button2" data-animation="pulse" class="sc-lcepkR eacNtQ pf-238_ animate-pulse-shrink">COMPRAR AGORA</a></div></div></div></div></div><div data-section-id="pf-6ac4" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-240_"><div style="--cw:1170px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-241_ pf-r pf-r-eh" style="--s-xs:15px;--s-lg:0px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-242_"><div data-pf-type="HTML.Video" class="sc-clIzBv bGyeBj pf-243_"><video width="100%" type="video/mp4" src="https://cdn.shopify.com/videos/c/o/v/19e70e12c8cb45f18d34e1207d8ae689.mp4" loop="" muted="" playsinline="" autoplay="" controlsList="nodownload" disablepictureinpicture=""></video></div></div></div></div></div></div><div data-section-id="pf-ef86" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-244_"><div style="--cw:1170px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-245_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-246_"><div data-pf-type="Divider2" class="sc-ieecCq oUurU pf-247_"><span data-pf-type="DividerText" class="sc-khQegj kWsbtR pf-249_">$</span></div><div class="sc-efQSVx kdrjec pf-251_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-252_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-253_"><span style="color: rgb(46, 42, 57);">ESCOLHA A MELHOR OFERTA PARA O SEU SORRISO</span></h3></div></div></div></div></div></div><div class="sc-efQSVx kdrjec pf-255_ pf-r pf-r-eh" style="--s-xs:15px;--s-lg:0px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-256_"><p class="sc-ehCJOs iphVAH pf-257_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><span style="color: rgb(255, 255, 255);"><span style="color: rgb(46, 42, 57);"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></font></font><span style="color: rgb(255, 255, 255);"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*Recomendamos o uso contínuo<br></font></font></font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">para resultados ainda melhores.</font></font></font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></font></font></span></span></font></font></font></p></div></div><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-259_"><p class="sc-ehCJOs iphVAH pf-260_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><span style="color: rgb(255, 255, 255);"><span style="color: rgb(46, 42, 57);"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><span style="color: rgb(255, 255, 255);">*Promoção válida até<br>durarem nossos estoques.</span></font></font></span></span></font></font></p></div></div></div></div></div><div data-section-id="pf-27b0" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-262_"><div style="--cw:1170px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-263_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-sm:4;--c-md:4;--c-lg:4"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-264_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-265_">1 UNIDADE</h3><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_10_1_195x.png?v=1690306241" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_10_1.png?v=1690306241 1536w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1080 / 1080" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-267_"/><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-268_"><i class="sc-faUpoM cTsgqM pf-269_ pfa pfa-truck-fast" data-pf-type="Icon"></i>Frete <b>grátis</b></h3><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-270_"><span style="color: rgb(136, 136, 136);"><s>DE: R$167,90</s><br></span></h3><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-272_">POR: R$127,90<span style="color: rgb(0, 0, 0);"></span></h3><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Porque_devo_comprar_o_smilekit_280x.png?v=1690351260" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Porque_devo_comprar_o_smilekit.png?v=1690351260 1536w" width="467" height="134" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:467 / 134" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-274_"/><a href="https://seguro.smilekitbrasil.com.br/r/7SL3YXZ9OR" target="_self" tabindex="0" spellcheck="false" data-pf-type="Button2" data-animation="pulse" class="sc-lcepkR eacNtQ pf-275_ animate-pulse-shrink"><i class="sc-faUpoM cTsgqM pf-276_ pfa pfa-cart-shopping" data-pf-type="Icon"></i>COMPRAR AGORA</a></div></div><div class="pf-c" style="--c-xs:12;--c-sm:4;--c-md:4;--c-lg:4"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-277_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-278_"><i class="sc-faUpoM cTsgqM pf-279_ pfa pfa-star" data-pf-type="Icon"></i>MAIS VENDIDO</h3><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-280_">2 UNIDADES</h3><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_12_195x.png?v=1690306247" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_12.png?v=1690306247 1536w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1080 / 1080" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-282_"/><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-283_"><i class="sc-faUpoM cTsgqM pf-284_ pfa pfa-truck-fast" data-pf-type="Icon"></i>Frete <b>grátis</b></h3><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-285_"><span style="color: rgb(136, 136, 136);"><s>DE: R$335,80</s><br></span></h3><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-287_">POR: R$167,90<span style="color: rgb(0, 0, 0);"></span></h3><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Porque_devo_comprar_o_smilekit_2_280x.png?v=1690351856" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Porque_devo_comprar_o_smilekit_2.png?v=1690351856 1536w" width="464" height="127" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:464 / 127" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-289_"/><a href="https://seguro.smilekitbrasil.com.br/r/1F68GLLQOM" target="_self" tabindex="0" spellcheck="false" data-pf-type="Button2" data-animation="pulse" class="sc-lcepkR eacNtQ pf-290_ animate-pulse-shrink"><i class="sc-faUpoM cTsgqM pf-291_ pfa pfa-cart-shopping" data-pf-type="Icon"></i>COMPRAR AGORA</a></div></div><div class="pf-c" style="--c-xs:12;--c-sm:4;--c-md:4;--c-lg:4"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-292_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-293_"><i class="sc-faUpoM cTsgqM pf-294_ pfa pfa-star" data-pf-type="Icon"></i>MAIS ECONÔMICO</h3><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-295_">3 UNIDADES</h3><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_11_195x.png?v=1690306247" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_11.png?v=1690306247 1536w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1080 / 1080" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-297_"/><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-298_"><i class="sc-faUpoM cTsgqM pf-299_ pfa pfa-truck-fast" data-pf-type="Icon"></i>Frete <b>grátis</b></h3><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-300_"><span style="color: rgb(136, 136, 136);"><s>DE: R$503,70</s><br></span></h3><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-302_">POR: R$197,90<span style="color: rgb(0, 0, 0);"></span></h3><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Porque_devo_comprar_o_smilekit_3_280x.png?v=1690351856" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Porque_devo_comprar_o_smilekit_3.png?v=1690351856 1536w" width="462" height="130" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:462 / 130" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-304_"/><a href="https://seguro.smilekitbrasil.com.br/r/MD6J3XGHQ6" target="_self" tabindex="0" spellcheck="false" data-pf-type="Button2" data-animation="pulse" class="sc-lcepkR eacNtQ pf-305_ animate-pulse-shrink"><i class="sc-faUpoM cTsgqM pf-306_ pfa pfa-cart-shopping" data-pf-type="Icon"></i>COMPRAR AGORA</a></div></div></div><div class="sc-efQSVx kdrjec pf-307_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-308_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_9_409cf970-ccfc-4a47-bd9a-6cd9b8ed6a6e_500x.png?v=1690312746" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_9_409cf970-ccfc-4a47-bd9a-6cd9b8ed6a6e.png?v=1690312746 1536w, https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_9_409cf970-ccfc-4a47-bd9a-6cd9b8ed6a6e_500x.png?v=1690312746 320w" width="1080" height="405" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1080 / 405" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-309_"/></div></div></div></div></div><div data-section-id="pf-4c96" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-310_"><div style="--cw:1296px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-311_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-312_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-313_"><i class="sc-faUpoM cTsgqM pf-314_ pfa pfa-circle-check" data-pf-type="Icon"></i><span style="color: rgb(255, 255, 255);">SATISFAÇÃO GARANTIDA<br></span></h3><div class="sc-efQSVx kdrjec pf-315_ pf-r pf-c-cm pf-r-eh" style="--s-xs:15px;--s-lg:0px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-316_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_10_463x.png?v=1690319104" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_10.png?v=1690319104 1536w" width="1080" height="1080" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1/1" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-317_"/></div></div><div class="pf-c" style="--c-xs:12;--c-sm:6;--c-md:6;--c-lg:6"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-318_"><p class="sc-ehCJOs iphVAH pf-319_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><span style="color: rgb(46, 42, 57);"><span style="color: rgb(255, 255, 255);">Confiamos tanto na qualidade e eficácia&nbsp;do nosso produto que oferecemos uma garantia de 7 dias, caso não fique satisfeito com seu sorriso em até 7 dias,&nbsp;devolvemos todo o seu dinheiro.<br>Esse é o nosso compromisso com você!</span></span></p><a data-to-section="pf-27b0" data-offset="{&quot;all&quot;:50,&quot;laptop&quot;:50,&quot;tablet&quot;:50,&quot;mobile&quot;:50}" href="#" tabindex="0" spellcheck="false" data-pf-type="Button2" data-animation="pulse" class="sc-lcepkR eacNtQ pf-321_ animate-pulse-shrink">COMPRAR AGORA</a></div></div></div></div></div></div></div></div><div data-section-id="pf-40e7" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-323_"><div style="--cw:1170px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-324_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-325_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_11_d29cfec5-fbd2-4a69-aa76-f32d1f1e5c10_90x.png?v=1690320382" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/Corretor_de_pigmentacao_amarelada_11_d29cfec5-fbd2-4a69-aa76-f32d1f1e5c10.png?v=1690320382 1536w" width="454" height="461" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1/1" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-326_"/><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-327_"><span style="color: rgb(46, 42, 57);">AINDA ESTÁ COM DÚVIDAS?<br>FALE COM UMA DE NOSSAS ATENDENTES</span></h3><p class="sc-ehCJOs iphVAH pf-329_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><span style="color: rgb(46, 42, 57);">Se ainda está com dúvidas sobre o nosso produto e deseja falar com uma de nossas atendentes, basta clicar no botão abaixo para ser redirecionado para o WhatsApp!</span></p><a href="https://api.whatsapp.com/send?phone=5511939153921&text=Ol%C3%A1!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20smilekit..." target="_blank" tabindex="0" spellcheck="false" data-pf-type="Button2" data-animation="pulse" class="sc-lcepkR eacNtQ pf-331_ animate-pulse-shrink"><i class="sc-faUpoM cTsgqM pf-332_ pfa-brands pfa-whatsapp" data-pf-type="Icon"></i>ATENDIMENTO VIA WHATSAPP</a></div></div></div></div></div><div data-section-id="pf-0820" data-pf-type="Section" class="sc-eSxRXt eFcmyr pf-333_"><div style="--cw:1170px" class="sc-jNHqnW kAyuLL"><div class="sc-efQSVx kdrjec pf-334_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-335_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-336_"><span style="color: rgb(46, 42, 57);">FAQ - Perguntas Frequentes</span></h3><div class="sc-iqseJM kgDwyT pf-338_ pf-icon-right" data-scrolling="false" data-multiple="false" data-pf-type="Accordion"><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-339_"><button type="button" class="sc-jrQzAO eqVTRu pf-340_ pf-bg-lazy pf-anchor" data-header-id="20dd7402-806a-43b3-8e57-578b8a153702" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Qual a frequência de uso recomendada?</font></font></font></font></span></button><div data-pf-expandable="true" data-id="20dd7402-806a-43b3-8e57-578b8a153702" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-342_"><div class="sc-efQSVx kdrjec pf-343_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-344_"><p class="sc-ehCJOs iphVAH pf-345_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;">Use diariamente ou pelo menos quatro vezes por semana para manter os dentes livres de manchas, antes de algum evento para eliminar tons amarelados indesejados em seus dentes ou como tratamento pós-clareamento para prolongar os resultados.</font></p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-347_"><button type="button" class="sc-jrQzAO eqVTRu pf-348_ pf-bg-lazy pf-anchor" data-header-id="eca01ef6-4b44-4427-9357-2e2a67173f74" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Esse produto é vegano?</font></font></font></font></font></font></span></button><div data-pf-expandable="true" data-id="eca01ef6-4b44-4427-9357-2e2a67173f74" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-350_"><div class="sc-efQSVx kdrjec pf-351_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-352_"><p class="sc-ehCJOs iphVAH pf-353_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;">Sim, não há nenhum ingrediente de origem animal nesse produto.</font></p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-355_"><button type="button" class="sc-jrQzAO eqVTRu pf-356_ pf-bg-lazy pf-anchor" data-header-id="7e5f0855-7dec-456c-aca0-1ef64b44e427" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span><font style="vertical-align: inherit;">A partir de quantos anos pode usar?</font></span></button><div data-pf-expandable="true" data-id="7e5f0855-7dec-456c-aca0-1ef64b44e427" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-358_"><div class="sc-efQSVx kdrjec pf-359_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-360_"><p class="sc-ehCJOs iphVAH pf-361_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;">Não é recomendado para crianças abaixo de 12 anos.</font></p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-363_"><button type="button" class="sc-jrQzAO eqVTRu pf-364_ pf-bg-lazy pf-anchor" data-header-id="28ba2484-f3ed-4887-be5f-08557decc56c" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Quanto tempo demora para ver resultados?</font></font></font></font></font></font></span></button><div data-pf-expandable="true" data-id="28ba2484-f3ed-4887-be5f-08557decc56c" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-366_"><div class="sc-efQSVx kdrjec pf-367_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-368_"><p class="sc-ehCJOs iphVAH pf-369_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;">Desde o primeiro uso já é possível ver a diferença da coloração dos dentes, mas com o uso contínuo esse efeito é potencializado.</font></p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-371_"><button type="button" class="sc-jrQzAO eqVTRu pf-372_ pf-bg-lazy pf-anchor" data-header-id="daf08f2c-c646-49c1-a8ba-2484f3ed5887" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">O produto pode deixar os dentes sensíveis?</font></font></font></font></font></font></span></button><div data-pf-expandable="true" data-id="daf08f2c-c646-49c1-a8ba-2484f3ed5887" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-374_"><div class="sc-efQSVx kdrjec pf-375_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-376_"><p class="sc-ehCJOs iphVAH pf-377_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;">Não, o Smilekit™ não contém componentes abrasivos que podem acabar retirando o esmalte dos dentes e a dentina, tornando os dentes mais sensíveis e suscetíveis à cárie.</font></p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-379_"><button type="button" class="sc-jrQzAO eqVTRu pf-380_ pf-bg-lazy pf-anchor" data-header-id="f9edb00b-dd4b-49ea-9af0-8f2cc64679c1" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">O produto pode manchar os dentes e/ou a língua?</font></font></font></font></font></font></span></button><div data-pf-expandable="true" data-id="f9edb00b-dd4b-49ea-9af0-8f2cc64679c1" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-382_"><div class="sc-efQSVx kdrjec pf-383_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-384_"><p class="sc-ehCJOs iphVAH pf-385_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;">Você terá a impressão de que seus dentes estão manchados se você não enxaguar sua boca com água após a aplicação. Mas isso é facilmente resolvido com alguns bochechos. Na língua pode ser necessário a escovação para retirar o excesso.</font></p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-387_"><button type="button" class="sc-jrQzAO eqVTRu pf-388_ pf-bg-lazy pf-anchor" data-header-id="1baafef9-05ca-49dc-b9ed-b00bdd4b69ea" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Grávidas e lactantes podem utilizar?</font></font></font></font></font></font></span></button><div data-pf-expandable="true" data-id="1baafef9-05ca-49dc-b9ed-b00bdd4b69ea" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-390_"><div class="sc-efQSVx kdrjec pf-391_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-392_"><p class="sc-ehCJOs iphVAH pf-393_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;">Não recomendamos o uso de qualquer produto por grávidas antes de uma avaliação médica ou odontológica criteriosa.</font></p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-395_"><button type="button" class="sc-jrQzAO eqVTRu pf-396_ pf-bg-lazy pf-anchor" data-header-id="36e67a9e-63a8-498c-9baa-fef905cab9dc" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tem alguma contraindicação?</font></font></font></font></font></font></span></button><div data-pf-expandable="true" data-id="36e67a9e-63a8-498c-9baa-fef905cab9dc" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-398_"><div class="sc-efQSVx kdrjec pf-399_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-400_"><p class="sc-ehCJOs iphVAH pf-401_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;">Não há nenhuma contraindicação específica, mas gestantes/lactantes devem sempre consultar um médico antes de utilizar qualquer cosmético e o uso para crianças abaixo de 12 anos não é recomendado. Além disso, em caso de hipersensibilidade a qualquer componente da fórmula o uso deve ser suspenso e o médico ou dentista deve ser consultado.</font></p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-403_"><button type="button" class="sc-jrQzAO eqVTRu pf-404_ pf-bg-lazy pf-anchor" data-header-id="b3255bc9-8678-4acd-b6e6-7a9e63a8798c" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Remove manchas nos dentes permanentemente?</font></font></font></font></font></font></span></button><div data-pf-expandable="true" data-id="b3255bc9-8678-4acd-b6e6-7a9e63a8798c" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-406_"><div class="sc-efQSVx kdrjec pf-407_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-408_"><p class="sc-ehCJOs iphVAH pf-409_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Não, o produto é um corretor temporário que disfarça as manchas amareladas. Mas se você quiser manter os dentes sempre branquinhos o recomendado é usar diariamente ou pelo menos 4 vezes na semana.</font></font></font></p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-411_"><button type="button" class="sc-jrQzAO eqVTRu pf-412_ pf-bg-lazy pf-anchor" data-header-id="5ebc3023-bdab-427e-b325-5bc986788acd" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">O produto pode tirar o esmalte natural dos dentes?</font></font></font></font></font></font></span></button><div data-pf-expandable="true" data-id="5ebc3023-bdab-427e-b325-5bc986788acd" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-414_"><div class="sc-efQSVx kdrjec pf-415_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-416_"><p class="sc-ehCJOs iphVAH pf-417_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;">Não, pois não é um método de clareamento invasivo.</font></p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-419_"><button type="button" class="sc-jrQzAO eqVTRu pf-420_ pf-bg-lazy pf-anchor" data-header-id="38f41b2c-ebaf-4d88-9ebc-3023bdabd27e" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">É recomendável para quem utiliza aparelho fixo?</font></font></font></font></font></font></span></button><div data-pf-expandable="true" data-id="38f41b2c-ebaf-4d88-9ebc-3023bdabd27e" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-422_"><div class="sc-efQSVx kdrjec pf-423_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-424_"><p class="sc-ehCJOs iphVAH pf-425_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;">Sim! Mas quem tem costume de usar borrachas claras ou transparentes deve perguntar ao dentista antes se há algum risco de manchá-las, já que algumas cores mancham até com alimentos como vinho, café, curry e açaí.</font></p></div></div></div></div></div><div data-pf-type="Accordion.Content.Wrapper" class="sc-crHmcD jDvJAM pf-427_"><button type="button" class="sc-jrQzAO eqVTRu pf-428_ pf-bg-lazy pf-anchor" data-header-id="c0a64e13-13ee-43ba-b8f4-1b2cebafad88" data-active="false" data-pf-type="Accordion.Header"><i class="pfa pfa-chevron-right pfa-arrow"></i><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">O produto pode manchar os dentes de quem possui resina ou porcelana nos dentes?</font></font></font></font></font></font></font></font></span></button><div data-pf-expandable="true" data-id="c0a64e13-13ee-43ba-b8f4-1b2cebafad88" style="display:none" data-pf-type="Accordion.Content" class="sc-kDTinF dTimTh pf-430_"><div class="sc-efQSVx kdrjec pf-431_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-432_"><p class="sc-ehCJOs iphVAH pf-433_" tabindex="0" spellcheck="false" data-pf-type="Paragraph3"><font style="vertical-align: inherit;">Não! É seguro para pessoas que possuem resina ou porcelana nos dentes, pois com o enxágue correto após a escovação, todo o produto é removido e os resultados de branqueamento permanecem.</font></p></div></div></div></div></div></div></div></div></div><div class="sc-efQSVx kdrjec pf-435_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-436_"><a data-to-section="pf-27b0" data-offset="{&quot;all&quot;:50,&quot;laptop&quot;:50,&quot;tablet&quot;:50,&quot;mobile&quot;:50}" href="#" tabindex="0" spellcheck="false" data-pf-type="Button2" data-animation="pulse" class="sc-lcepkR eacNtQ pf-437_ animate-pulse-shrink">COMPRAR AGORA</a></div></div></div><div class="sc-efQSVx kdrjec pf-439_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-440_"><img src="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_9_409cf970-ccfc-4a47-bd9a-6cd9b8ed6a6e_500x.png?v=1690312746" srcSet="https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_9_409cf970-ccfc-4a47-bd9a-6cd9b8ed6a6e.png?v=1690312746 1536w, https://cdn.shopify.com/s/files/1/0788/9541/5597/files/smilekit_3_9_409cf970-ccfc-4a47-bd9a-6cd9b8ed6a6e_500x.png?v=1690312746 320w" width="1080" height="405" sizes="(min-width: 1536px) 1536px, (min-width: 1024px) 1280px, (min-width: 640px) 768px, 320px" loading="lazy" style="aspect-ratio:1080 / 405" data-pf-type="Image3" class="sc-jOxtWs ffIUiZ pf-441_"/><div class="sc-efQSVx kdrjec pf-442_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-fvpsdx eVTiRY pf-443_"><h3 tabindex="0" spellcheck="false" data-pf-type="Heading2" class="sc-hiwPVj bcyuPn pf-444_">Confira nossas redes socias</h3><i class="sc-faUpoM cTsgqM pf-446_ pfa-brands pfa-instagram" data-href="https://www.instagram.com/smilekitbrasil/" data-target="_blank" data-pf-type="Icon"></i><i class="sc-faUpoM cTsgqM pf-447_ pfa-brands pfa-facebook" data-href="https://www.facebook.com/smilekitbrasil" data-target="_blank" data-pf-type="Icon"></i><i class="sc-faUpoM cTsgqM pf-448_ pfa-brands pfa-tiktok" data-href="https://www.tiktok.com/@smilekitbrasil" data-target="_blank" data-pf-type="Icon"></i></div></div></div></div></div></div></div></div></div></div></div><script>
+    !function(){window.__pagefly_setting__&&(window.__pagefly_setting2__=window.__pagefly_setting__),window.__pagefly_setting__={"baseURL":"https://apps.pagefly.io","analyticsURL":"https://analytics.pagefly.io","isBackend":false,"cdnURL":"https://cdn.pagefly.io","pageflyVersion":"4.2.5","shopDomain":"smilekit-1668.myshopify.com","elementData":{"pf-58_":{"autoPlay":true,"autoPlayDelay":6000,"loop":true,"slidesToShow":{"all":3,"laptop":3,"tablet":2,"mobile":1},"slidesToScroll":{"all":1,"laptop":1,"tablet":1,"mobile":1},"displayPartialItems":{"all":false,"laptop":false,"tablet":false,"mobile":false},"gutter":{"all":14,"laptop":30,"tablet":30,"mobile":0},"maxHeight":true,"pauseOnHover":false,"navStyle":"nav-style-1","paginationStyle":"none","id":"1796c40f-f236-4773-9c4d-2669f2c9cfbe","_type":"Slideshow"}},"pageTitle":"Page Smilekit","pageType":"home","pageId":"2536ec8e-e6cf-4217-8689-9299c44cc958","lazyLoad":true,"forceByPassGoogleLightHouse":false,"imageLazyLoad":true,"nativeImageLazyLoad":true,"useThemeJQ":false,"selectedFonts":{"Montserrat":{"400":0,"600":0,"700":0,"800":0,"900":0,"bold":0},"Poppins":{"400":0,"600":0,"bold":0}},"trackingIDs":[],"shopifyProxyPath":"/a/pf_preview"},window.__pagefly_setting2__&&(window.__pagefly_setting__=function _(d,b){let c={...d||{}};for(let a of Object.keys(b))b[a]instanceof Object&&(Array.isArray(b[a])&&c[a]?Object.assign(b[a],[...b[a],...c[a]]):Object.assign(b[a],_(c[a],b[a])));return Object.assign(c||{},b),c}(__pagefly_setting2__,__pagefly_setting__),delete window.__pagefly_setting2__),window.__pagefly_setting__.moneyFormat="R$ {{amount_with_comma_separator}}"}();
+    </script><script src="https://cdn.pagefly.io/pagefly/4.2.5/core/helper.js" async></script>
+</div>
+    </main>
+
+    <!-- BEGIN sections: footer-group -->
+<div id="shopify-section-sections--19771921826093__footer" class="shopify-section shopify-section-group-footer-group">
+<link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/section-footer.css?v=171161867995400310821688243512" rel="stylesheet" type="text/css" media="all" />
+<link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-newsletter.css?v=103472482056003053551688243511" rel="stylesheet" type="text/css" media="all" />
+<link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-list-menu.css?v=151968516119678728991688243511" rel="stylesheet" type="text/css" media="all" />
+<link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-list-payment.css?v=69253961410771838501688243511" rel="stylesheet" type="text/css" media="all" />
+<link href="//smilekitbrasil.com.br/cdn/shop/t/2/assets/component-list-social.css?v=52211663153726659061688243511" rel="stylesheet" type="text/css" media="all" />
+<style data-shopify>.footer {
+    margin-top: 36px;
+  }
+
+  .section-sections--19771921826093__footer-padding {
+    padding-top: 42px;
+    padding-bottom: 27px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .footer {
+      margin-top: 48px;
+    }
+
+    .section-sections--19771921826093__footer-padding {
+      padding-top: 56px;
+      padding-bottom: 36px;
+    }
+  }</style><footer class="footer color-inverse gradient section-sections--19771921826093__footer-padding"><div class="footer__content-top page-width"><div class="footer__blocks-wrapper grid grid--1-col grid--2-col grid--4-col-tablet "><div
+                class="footer-block grid__item"
+                
+              ><div class="footer-block__details-content footer-block-image center"><div
+                          class="footer-block__image-wrapper global-media-settings"
+                          style="max-width: min(100%, 165px);"
+                        >
+                          <img
+                            srcset="//smilekitbrasil.com.br/cdn/shop/files/smilekit_1080_x_500_px_1080_x_250_px_1.png?v=1688603150&width=165, //smilekitbrasil.com.br/cdn/shop/files/smilekit_1080_x_500_px_1080_x_250_px_1.png?v=1688603150&width=330 2x"
+                            src="//smilekitbrasil.com.br/cdn/shop/files/smilekit_1080_x_500_px_1080_x_250_px_1.png?v=1688603150&width=760"
+                            alt=""
+                            loading="lazy"
+                            width="1080"
+                            height="250"
+                          >
+                        </div></div></div><div
+                class="footer-block grid__item"
+                
+              ><h2 class="footer-block__heading inline-richtext">FALE CONOSCO</h2><div class="footer-block__details-content rte">
+                      <p>Para qualquer dúvida ou perguntas, entre em contato nos canais e horários abaixo:</p><p>E-mail: sac@smilekitbrasil.com.br</p><p>WhatsApp: +55 (11) 93915-3921</p><p>Horário de Atendimento: De Seg. à Sex. das 09h às 19h e Sáb. das 09h às 13h.</p>
+                    </div></div><div
+                class="footer-block grid__item footer-block--menu"
+                
+              ><h2 class="footer-block__heading inline-richtext">INSTITUCIONAL</h2><ul class="footer-block__details-content list-unstyled"><li>
+                            <a
+                              href="/pages/quem-somos"
+                              class="link link--text list-menu__item list-menu__item--link"
+                            >
+                              Quem Somos
+                            </a>
+                          </li><li>
+                            <a
+                              href="/pages/aviso-legal"
+                              class="link link--text list-menu__item list-menu__item--link"
+                            >
+                              Aviso Legal
+                            </a>
+                          </li><li>
+                            <a
+                              href="/pages/termos-de-uso"
+                              class="link link--text list-menu__item list-menu__item--link"
+                            >
+                              Termos de Uso
+                            </a>
+                          </li><li>
+                            <a
+                              href="/pages/politica-de-privacidade"
+                              class="link link--text list-menu__item list-menu__item--link"
+                            >
+                              Política de Privacidade
+                            </a>
+                          </li><li>
+                            <a
+                              href="/pages/politica-de-trocas-e-devolucoes"
+                              class="link link--text list-menu__item list-menu__item--link"
+                            >
+                              Política de Trocas e Devoluções
+                            </a>
+                          </li><li>
+                            <a
+                              href="/pages/politica-de-entrega"
+                              class="link link--text list-menu__item list-menu__item--link"
+                            >
+                              Política de Entrega
+                            </a>
+                          </li><li>
+                            <a
+                              href="/pages/perguntas-frequentes"
+                              class="link link--text list-menu__item list-menu__item--link"
+                            >
+                              Perguntas Frequentes
+                            </a>
+                          </li><li>
+                            <a
+                              href="/pages/rastrear-pedido"
+                              class="link link--text list-menu__item list-menu__item--link"
+                            >
+                              Rastrear Pedido
+                            </a>
+                          </li></ul></div></div><div class="footer-block--newsletter"><div class="footer-block__newsletter"><h2 class="footer-block__heading inline-richtext">Receba ofertas exclusivas e fique por dentro das novidades!</h2><form method="post" action="/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8" class="footer__newsletter newsletter-form"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="contact[tags]" value="newsletter">
+                <div class="newsletter-form__field-wrapper">
+                  <div class="field">
+                    <input
+                      id="NewsletterForm--sections--19771921826093__footer"
+                      type="email"
+                      name="contact[email]"
+                      class="field__input"
+                      value=""
+                      aria-required="true"
+                      autocorrect="off"
+                      autocapitalize="off"
+                      autocomplete="email"
+                      
+                      placeholder="E-mail"
+                      required
+                    >
+                    <label class="field__label" for="NewsletterForm--sections--19771921826093__footer">
+                      E-mail
+                    </label>
+                    <button
+                      type="submit"
+                      class="newsletter-form__button field__button"
+                      name="commit"
+                      id="Subscribe"
+                      aria-label="Assinar"
+                    >
+                      <svg
+  viewBox="0 0 14 10"
+  fill="none"
+  aria-hidden="true"
+  focusable="false"
+  class="icon icon-arrow"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+
+                    </button>
+                  </div></div></form></div></div>
+      </div><div class="footer__content-bottom">
+    <div class="footer__content-bottom-wrapper page-width">
+      <div class="footer__column footer__localization isolate"></div>
+      <div class="footer__column footer__column--info"></div>
+    </div>
+    <div class="footer__content-bottom-wrapper page-width footer__content-bottom-wrapper--center">
+      <div class="footer__copyright caption">
+        <small class="copyright__content"
+          >&copy; 2023, <a href="/" title="">smilekit</a></small>
+        <small class="copyright__content"><a target="_blank" rel="nofollow" href="https://pt.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Rua Sabarabuçu, 152 - SP | CNPJ: 38.455.049/0001-01 | É vedada qualquer reprodução, total ou parcial, nos termos da Lei nº 9.610/98. Todos os direitos reservados.</a></small></div>
+    </div>
+  </div>
+</footer>
+
+<div style="background-color: #2e2a39;">
+<div class="bandeiras-align">
+        <p></p>
+        <img loading="lazy" src="https://cdn.shopify.com/s/files/1/0655/0696/7773/files/BANDERIAS_d37fd9f0-394c-42da-aef3-9a9abdf73e40.png?v=1675261952" width="320px" height="80px" alt="Métodos de pagamento">
+        <style>
+
+          .bandeiras-align {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+          }
+
+          .bandeiras-align>p {
+            margin-bottom: 0;
+          }
+
+          @media (max-width: 640px){
+            .bandeiras-align {
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              margin-bottom: 48px;
+            }
+          }
+          
+        </style>
+      </div>
+
+<div style="background-color: #2e2a39;">
+  <center>
+  <br>
+  <a href="https://www.sslshopper.com/ssl-checker.html#hostname=smilekitbrasil.com.br" target="_blank" rel="noopener" aria-describedby="a11y-new-window-message"><img
+ 
+src="https://cdn.shopify.com/s/files/1/0655/0696/7773/files/NORTON_RBANCO.png?v=1664488265" width="63" height="30px" ></a><a target="_blank" rel="noopener" style="margin-left: 25px;" aria-describedby="a11y-new-window-message"
+
+<a href="https://www.reclameaqui.com.br/" target="_blank"><img loading="lazy" src="https://cdn.shopify.com/s/files/1/0655/0696/7773/files/RECLAMEAQUI_RBANCO.png?v=1675262979" class="reclameaqui-logo" alt="ReclameAqui" width="113px" height="25px"></a><a target="_blank" rel="noopener" style="margin-left: 25px;" aria-describedby="a11y-new-window-message"
+    
+<a href="https://transparencyreport.google.com/safe-browsing/search?url=https://smilekitbrasil.com.br/" target="_blank" rel="noopener" aria-describedby="a11y-new-window-message"><img 
+                                                                                                                                                                            
+    <img src="https://cdn.shopify.com/s/files/1/0655/0696/7773/files/GOOGLE_BRANCO.png?v=1664488265" width="83px" height="35px">
+      <a href="https://www.sslshopper.com/ssl-checker.html#hostname=" target="_blank" rel="noopener" aria-describedby="a11y-new-window-message"><img src=""></a>
+      
+  <p style="font-size:13px; color: white; text-align: center;">Selos de Garantia - Loja 100% Segura.</p>
+    </center>
+            <br>
+  </div>
+</div>
+<!-- END sections: footer-group -->
+
+    <ul hidden>
+      <li id="a11y-refresh-page-message">Ao escolher uma seleção, a página inteira é atualizada.</li>
+      <li id="a11y-new-window-message">Abre em uma nova janela.</li>
+    </ul>
+
+    <script>
+      window.shopUrl = 'https://smilekitbrasil.com.br';
+      window.routes = {
+        cart_add_url: '/cart/add',
+        cart_change_url: '/cart/change',
+        cart_update_url: '/cart/update',
+        cart_url: '/cart',
+        predictive_search_url: '/search/suggest'
+      };
+
+      window.cartStrings = {
+        error: `Ocorreu um erro ao atualizar o carrinho. Tente de novo.`,
+        quantityError: `É possível adicionar apenas [quantity] unidade(s) desse item ao carrinho.`
+      }
+
+      window.variantStrings = {
+        addToCart: `COMPRAR AGORA`,
+        soldOut: `Esgotado`,
+        unavailable: `Indisponível`,
+        unavailable_with_option: `[value] – indisponível`,
+      }
+
+      window.accessibilityStrings = {
+        imageAvailable: `A imagem [index] está disponível no visualizador da galeria`,
+        shareSuccess: `Link copiado para a área de transferência`,
+        pauseSlideshow: `Pausar apresentação de slides`,
+        playSlideshow: `Reproduzir apresentação de slides`,
+      }
+    </script><!-- Não remova. Checkout Yampi. -->
+ 
+<!-- Não remova. Checkout Yampi. --> <!-- Don't Remove this code. CartPanda App code. -->
+   <link rel="preconnect" crossorigin href="https://accounts.cartpanda.com">
+                                <link rel="preconnect" crossorigin href="https://smilekit-brasil.mycartpanda.com">
+                                    <style>
+                                        .white-overlay {display: none;background-color: rgba(255, 255, 255, 1);z-index: 9999;top: 0;left: 0;height: 100vh;width: 100vw;position: fixed;margin: 0;}.spinner-wrapper {position: fixed;top: 50%;left: 50%;transform: translate(-50%, -50%);margin: 0 auto;min-width: 220px;}.cartpanda .spinner {border: 6px solid #e2e2e2;border-top: 6px solid #297FBC;border-radius: 50%;width: 100px;height: 100px;animation: spin 2s linear infinite;margin: auto;}.spinner-icon {position: relative;}.spinner-icon .spinner-icon-svg {position: absolute;top: 50%;left: 50%;margin-left: -19px;margin-top: -70px;width: 40px;height: 40px;}.spinner-text {text-align: center;color: #526473;font-size: 16px;padding-top: 2rem;}.custom_spinner.loading {padding: 50px;position: relative;text-align: center;}.custom_spinner.loading:before {content: '';height: 45px;width: 45px;margin: 0px auto auto -20px;position: absolute;border-width: 8px;border-style: solid;border-color: #2180c0 #ccc #ccc;  border-radius: 100%;animation: rotation .7s infinite linear;}@keyframes rotation {from {transform: rotate(0deg);} to {transform: rotate(359deg);}} @keyframes spin {0% {transform: rotate(0deg);}100% {transform: rotate(360deg);}} @keyframes spin {0% {transform: rotate(0deg);}100% {transform: rotate(360deg);}}
+                                    </style>
+
+                        <div class="cartx-preloader white-overlay cartx-loader" id="cartx-preloader">
+                            <div class="spinner-wrapper">
+                                <div class=''>
+                                    <div class="spinner-icon">
+                                       <div class="custom_spinner loading">&nbsp;</div>
+                                    </div>
+                                </div>
+                                <div class=''><div class="spinner-text">Carregando Ambiente Seguro</div></div>
+                            </div>
+                        </div>
+
+                        <script>
+                            if(!window.jQuery || typeof jQuery == 'undefined' || jQuery == null)
+                            {
+                                document.write('<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></' + 'script>');
+                            }
+                        </script>
+                        <script>
+
+                        /* function loadJS(file, js_type = '') {
+                            // DOM: Create the script element
+                            var jsElm = document.createElement("script");
+                            // set the type attribute
+                            if(js_type == '') {
+                                jsElm.type = "application/javascript";
+                            } else {
+                            }
+                            // make the script element load file
+                            jsElm.src = file;
+                            // finally insert the element to the body element in order to load the script
+                            document.body.appendChild(jsElm);
+                        }
+                        loadJS('https://accounts.cartpanda.com/assets/js/shopify_redirect.js?time=1691096563', ''); */
+
+                        var currentPage = 'index',
+                            cartEndpoint = 'https://smilekit-brasil.mycartpanda.com/shopify/cart',
+                            shopName = 'smilekit-1668.myshopify.com',
+                            shop = 'https://smilekitbrasil.com.br',
+                            cart_loading_message = 'Carregando carrinho seguro',
+                            has_multiple_buttons = '0',
+                            show_spinner = '1'
+                            window.cartxCheckoutUrl = '';
+                        var remove_cart_item = 1;
+                        var keyAnimationcss = '<style>@keyframes spin {0% {transform: rotate(0deg);}100% {transform: rotate(360deg);}}</style>';
+                        var getHtmlHead = document.getElementsByTagName('head')[0];
+                        getHtmlHead.insertAdjacentHTML('beforeend', keyAnimationcss);
+                        
+                        var checkoutBtncss = '<style id=\"cartx-btn-style\" type=\"text/css\"> body .cartx-CrtpageMainFrm input[type=\"submit\"]:not([name=\"update\"]), body .cartx-CrtpageMainFrm button[type=\"submit\"]:not([name=\"update\"]), body .cartx-CrtpageMainFrm button[type=\"button\"]:not([name=\"update\"]), body .cartx_check_mainBtn[name=\"checkout\"]:not([class*=\"cartx_elem_\"]):not([name=\"update\"]), body input.cartx_check_mainBtn:not([class*=\"cartx_elem_\"]):not([name=\"update\"]), .custom_class { display: none !important; }body .cartx-CrtpageMainFrm .cartx_check_mainBtn.cartx_elem_mainBtn[type=\"submit\"]{ display: inline-block !important;} </style>';
+                        var e_param = '';
+                        var eParamInterval = setInterval(function() {
+                            if(getEParam()) {
+                                e_param = getEParam();
+                            }
+                            if(e_param) {
+                                clearInterval(eParamInterval);
+                            }
+                        }, 100);
+                        
+                        var utmParamInterval = setInterval(function() {
+                            var u_param = '';
+                            if(getUtmParam()) {
+                                u_param = getUtmParam();
+                                e_param += u_param;
+                            }
+                            if(u_param) {
+                                clearInterval(utmParamInterval);
+                            }
+                        }, 100);
+                        
+                        var srcParamInterval = setInterval(function() {
+                            var src_param = '';
+                            if(getSrcParam()) {
+                                src_param = getSrcParam();
+                                e_param += src_param;
+                            }                         
+                            if(src_param) {
+                                clearInterval(srcParamInterval);
+                            }
+                        }, 100);
+                        function showCartxLoader() {
+                            var el = document.querySelector('.cartx-loader');
+                            el.style.display = 'block';
+                        }
+
+                        function hideCartxLoader() {
+                            var el = document.querySelector('.cartx-loader');
+                            el.style.display = 'none';
+                        }
+
+                        // Cart
+                        if (currentPage == 'cart') {
+                            cartRedirect();
+                        }
+
+                        function getAjax(url, success) {
+                            var xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');
+                            xhr.open('GET', url);
+                            xhr.onreadystatechange = function() {
+                                if (xhr.readyState > 3 && xhr.status==200) success(xhr.responseText);
+                            };
+                            // xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+                            xhr.send();
+                            return xhr;
+                        }
+
+                        function postAjax(url, data, success) {
+                            var params = typeof data == 'string' ? data : Object.keys(data).map(
+                                    function(k){ return encodeURIComponent(k) + '=' + encodeURIComponent(data[k]) }
+                                ).join('&');
+
+                            var xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+                            xhr.open('POST', url);
+                            xhr.onreadystatechange = function() {
+                                if (xhr.readyState>3 && xhr.status==200) { success(xhr.responseText); } else { if(xhr.status != 200) { hideCartxLoader(); } } 
+                            };
+                            // xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+                            // xhr.setRequestHeader('Content-Type', 'application/json');
+                            xhr.send(params);
+                            return xhr;
+                        }
+                        
+                        function shuffle(s) {
+                            s = s.toString();
+                            var arr = s.split('');           // Convert String to array
+
+                            arr.sort(function() {
+                                return 0.5 - Math.random();
+                            });  
+                            s = arr.join('');                // Convert Array to string
+                            return s;                        // Return shuffled string
+                        }
+
+                        // Product
+                        var cartxData = '';
+
+                        if (window.$ || window.jQuery) {
+
+                            var checkoutButtons = $('.btn-checkout');
+                            checkoutButtons.each(function () {
+                                var t = $(this);
+
+                                if (t.attr('onclick') == "window.location='/checkout'") {
+                                    t.attr('onclick', "window.location='/cart'");
+                                }
+                            });
+
+                            if (currentPage == 'product' || currentPage == 'index') {
+                                productRedirect();
+                            }
+                        }
+
+                        function fakeClick(event) {
+                            event.preventDefault();
+                            showCartxLoader();
+                            getAjax('/cart.json', function (response) {
+                                var cartPayload = JSON.parse(response);
+                                var cartPayload = removeArrayKey(cartPayload);
+
+                                var data = {
+                                    shop: shopName,
+                                    host_name: window.location.host,
+                                    cart_payload: cartPayload
+                                };
+
+                                postAjax(cartEndpoint, JSON.stringify(data), function (response) {
+                                    var resp = JSON.parse(response);
+                                    
+                                    if(remove_cart_item) {
+                                        jQuery.ajax({
+                                            type: "POST",
+                                            url: "/cart/clear.js",
+                                            success: function () {
+                                                window.location.href = resp.checkout_direct_url+e_param;
+                                            },
+                                            dataType: "json"
+                                        });
+                                    } else {
+                                        window.location.href = resp.checkout_direct_url+e_param;
+                                    }
+                                });
+                            });
+                        }
+                        
+                        function productRedirect() {
+                            var btn_selectors = $('input[name="add"] , button[name=\'add\'], #add-to-cart, .add-to-cart, #AddToCartText ,#AddToCart, .ProductForm__AddToCart, .shopify-payment-button__button, .shopify-payment-button__button--unbranded');
+                                btn_selectors.attr('disabled', true);
+
+                            var xhttp = new XMLHttpRequest();
+                            xhttp.onreadystatechange = function() {
+                                btn_selectors = $('input[name="add"] , button[name=\'add\'], #add-to-cart, .add-to-cart, #AddToCartText ,#AddToCart, .ProductForm__AddToCart, .shopify-payment-button__button, .shopify-payment-button__button--unbranded');
+                                if (this.readyState == 4 && this.status == 200) {
+                                    cartxData = JSON.parse(this.response);
+                                    if (cartxData && cartxData.skip_cart) {
+                                        btn_selectors.addClass("cartx_mainBtn cartx_elem_0");
+                                        btn_selectors.removeAttr("disabled");
+
+                                        $('.cartx_mainBtn').on('click', function(event){
+                                            event.preventDefault();
+                                            var form_count = $('form[action="/cart/add"]').length;
+                                            if(typeof form_count != 'undefined' && form_count <= 1) {
+                                                var form = $('form[action="/cart/add"]');
+                                            } else {
+                                                var form = $(this).parents('form[action="/cart/add"]');
+                                            }
+                                            /* var xhr = new XMLHttpRequest();
+                                            xhr.open('POST', '/cart/add.js', true);
+                                            // xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+                                            xhr.onreadystatechange = function() {
+                                                if (this.readyState === XMLHttpRequest.DONE && this.status === 200) {
+                                                    window.location.href = '/cart?ref=cartx_buy_button'
+                                                }
+                                            }
+
+                                            xhr.send($(form).serialize()); */
+
+                                            $.post( "/cart/add.js", $(form).serialize(), function( data, status, XHR ) {
+
+                                            }).
+                                            always(function() {
+                                              window.location.href = '/cart?ref=cartx_buy_button'+e_param
+                                            });
+                                        });
+                                    } else {
+                                        btn_selectors.removeAttr('disabled');
+                                    }
+                                }  else {
+                                    btn_selectors.removeAttr('disabled');
+                                }
+                            };
+                            xhttp.open('GET',cartEndpoint+'?shop=' + shopName);
+                            xhttp.send();
+                        }
+                        
+                        function cartRedirect() {
+                            if(typeof cart_loading_message != 'undefined' && cart_loading_message != '') {
+                                var message_element = document.getElementsByClassName("spinner-text");
+                                for(var i = 0; i < message_element.length; i++){
+                                    message_element[i].innerHTML = cart_loading_message;
+                                }
+                            }
+                            // if(typeof show_spinner != 'undefined' && show_spinner == 1) {
+                                showCartxLoader();
+                            // }
+                            getAjax('/cart.json', function (response) {
+                                var cartPayload = JSON.parse(response);
+                                var cartPayload = removeArrayKey(cartPayload);
+
+                                var data = {
+                                    shop: shopName,
+                                    host_name: window.location.host,
+                                    cart_payload: cartPayload
+                                };
+
+                                postAjax(cartEndpoint, JSON.stringify(data), function (response) {
+                                    var resp = JSON.parse(response);
+                                    remove_cart_item = resp.remove_cart_item;
+                                    if (!resp.active) {
+                                        hideCartxLoader();
+                                    } else {
+
+                                        var otherButtons = document.getElementsByClassName('cartx_check_mainBtn');
+
+                                        for (var i = 0; i < otherButtons.length; i ++) {
+                                            otherButtons[i].setAttribute('style', 'display: none !important');
+                                        }
+
+                                        window.cartxCheckoutUrl = resp.checkout_direct_url+e_param;
+                                        var isFacebook = isFacebookApp();
+                                        var isAndroid = isAndroidApp();
+                                        if (resp.skip_cart && resp.checkout_direct_url != '' && isFacebook == false && isAndroid == false) {
+                                            if(remove_cart_item) {
+                                                jQuery.ajax({
+                                                    type: "POST",
+                                                    url: "/cart/clear.js",
+                                                    success: function () {
+                                                        window.location.href = resp.checkout_direct_url+e_param;
+                                                    },
+                                                    dataType: "json"
+                                                });
+                                            } else {
+                                                window.location.href = resp.checkout_direct_url+e_param;
+                                            }
+
+                                        } else if (resp.skip_cart && resp.checkout_direct_url != '' && isFacebook == true && isAndroid == false) {
+                                            if(remove_cart_item) {
+                                                jQuery.ajax({
+                                                    type: "POST",
+                                                    url: "/cart/clear.js",
+                                                    success: function () {
+                                                        window.location.href = resp.checkout_direct_url+e_param;
+                                                    },
+                                                    dataType: "json"
+                                                });
+                                            } else {
+                                                window.location.href = resp.checkout_direct_url+e_param;
+                                            }
+
+                                        } else if (resp.skip_cart && resp.checkout_direct_url != '' && isFacebook == false && isAndroid == true) {
+                                            if(remove_cart_item) {
+                                                jQuery.ajax({
+                                                    type: "POST",
+                                                    url: "/cart/clear.js",
+                                                    success: function () {
+                                                        window.location.href = resp.checkout_direct_url+e_param;
+                                                    },
+                                                    dataType: "json"
+                                                });
+                                            } else {
+                                                window.location.href = resp.checkout_direct_url+e_param;
+                                            }
+
+                                        } else {
+                                            if (resp.checkout_direct_url != '' && localStorage.getItem('buynow') === "true") {
+                                                // Limpa o carrinho do Shopify
+                                                if(remove_cart_item) {
+                                                    postAjax('/cart/clear.js', JSON.stringify({}), function () {
+                                                        localStorage.setItem('buynow', false);
+                                                        window.location.href = resp.checkout_direct_url+e_param;
+                                                    });
+                                                } else {
+                                                    localStorage.setItem('buynow', false);
+                                                    window.location.href = resp.checkout_direct_url+e_param;
+                                                }
+                                            } else {
+                                                hideCartxLoader();
+                                                var getHead = document.getElementsByTagName('head')[0];
+                                                getHead.insertAdjacentHTML('beforeend', checkoutBtncss);
+                                                var getForm = document.getElementsByTagName('form'); var cartFrmId,getCheckoutBtn;
+                                                var buttonAdded = 0;
+                                                var prevent_add_button = 0;
+                                                if(typeof has_multiple_buttons != 'undefined') {
+                                                    prevent_add_button = has_multiple_buttons;
+                                                }
+                                                for (var i = 0; i < getForm.length; i++) {
+                                                    var formAction = getForm[i].action;  formAction = formAction.split(shop);
+                                                    var url_value = '';
+                                                    if(typeof formAction[1] != 'undefined') {
+                                                        url_value = formAction[1];
+                                                    }
+                                                    if (formAction.includes('/cart') == true || formAction[0].includes('/cart') == true  || formAction.indexOf('/cart') !== -1 || url_value.indexOf('/cart') !== -1 || formAction.includes('/checkout') == true || formAction[0].includes('/checkout') == true  || formAction.indexOf('/checkout') !== -1 || url_value.indexOf('/checkout') !== -1) {
+                                                        if (getForm[i].getAttribute('id')){
+                                                            cartFrmId = getForm[i].getAttribute('id');
+                                                        } else {
+                                                            getForm[i].setAttribute('id','cartx-CrtpageMainFrm'); cartFrmId = getForm[i].getAttribute('id');
+                                                        }
+                                                        getForm[i].classList.add('cartx-CrtpageMainFrm');
+                                                        
+                                                        getCheckoutBtn = getForm[i].elements['checkout'] || getForm[i].querySelector('a[href="/checkout"]') || getForm[i].querySelector('a[href="/checkout"]') || getForm[i].querySelector('form[action="/cart"] input[type="submit"]') || getForm[i].querySelector('form[action="/checkout"] button[type="submit"]') || getForm[i].querySelector('button[type="submit"]') || getForm[i].querySelector('form[action="/cart"] button[type="submit"]') || getForm[i].querySelector('form[action="/cart"] button[type="button"]');
+                                                        if(getCheckoutBtn != null) {
+                                                            var button_width = 'auto';
+                                                            if (getCheckoutBtn.length == undefined) {
+                                                                var buttonValue = getCheckoutBtn.value ? getCheckoutBtn.value : getCheckoutBtn.innerHTML;
+                                                                var button_width = getCheckoutBtn.style.width;
+                                                            } else {
+                                                                var lastBtnID = getCheckoutBtn.length - 1;
+                                                                var button_width = getCheckoutBtn[lastBtnID].style.width;
+                                                                var buttonValue = getCheckoutBtn[lastBtnID].value ? getCheckoutBtn[lastBtnID].value : getCheckoutBtn[lastBtnID].innerHTML;
+                                                            }
+                                                            var getSubBtnId = getCheckoutBtn.id;
+                                                            if (getSubBtnId) {
+                                                                getSubBtnId = getSubBtnId+'cartxButton';
+                                                            } else {
+                                                                getSubBtnId = 'cartxBtn';
+                                                            }
+                                                            var d = new Date();
+                                                            var time = shuffle(d.getTime());
+                                                            getSubBtnId = getSubBtnId+time;
+
+                                                            if (getCheckoutBtn.length == undefined) {
+                                                                if(buttonAdded == 0) {
+                                                                    var inptBtn = `<button type='submit' class='`+getCheckoutBtn.className+` cartx_check_mainBtn cartx_elem_mainBtn' id='`+getSubBtnId+`' style='width: `+button_width+`'>`+buttonValue+`</button>`;
+                                                                    getCheckoutBtn.insertAdjacentHTML('afterEnd', inptBtn);
+                                                                    if(prevent_add_button == 0) {
+                                                                        buttonAdded++;
+                                                                    }
+                                                                    document.getElementById(getSubBtnId).addEventListener('click', fakeClick);
+                                                                    if (resp.skip_cart && resp.checkout_direct_url != '') {
+                                                                        document.getElementById(getSubBtnId).click();
+                                                                    }
+                                                                }
+                                                            } else {
+                                                                var total_button = getCheckoutBtn.length;
+                                                                for (var button_count = 0; button_count < total_button; button_count++) {
+                                                                    var new_btn_id = getSubBtnId+button_count;
+                                                                    var button_display = getCheckoutBtn[button_count].style.display;
+                                                                    if(button_display != 'none') {
+                                                                        var inptBtn = `<button type='submit' class='`+getCheckoutBtn[button_count].className+` cartx_check_mainBtn cartx_elem_mainBtn' id='`+new_btn_id+`' style='width: `+button_width+`'>`+buttonValue+`</button>`;
+                                                                        getCheckoutBtn[button_count].insertAdjacentHTML('afterEnd', inptBtn);
+                                                                        document.getElementById(new_btn_id).addEventListener('click', fakeClick);
+                                                                    }
+                                                                }
+                                                                if (resp.skip_cart && resp.checkout_direct_url != '') {
+                                                                    document.getElementById(new_btn_id).click();
+                                                                }
+                                                            }
+                                                            getCheckoutBtn.classList.add("custom_class");
+                                                        }
+                                                    }
+                                                }
+
+                                                // Tratamento com links dentro do carrinho.
+                                                if (window.$ || window.jQuery) {
+                                                    var btns = $('a.btn-checkout[href="/checkout"]').not('.cartx_elem_mainBtn');
+                                                    btns.hide();
+                                                }
+                                            }
+                                        }
+                                    }
+                                });
+
+                            });
+                        }
+                        // Verifica se existem botões redirecionando para /a/checkout
+                        if (window.$ || window.jQuery) {
+                            var oldLinks = $('a[href="/a/checkout"]').not('.cartx-btn-finalize').addClass('cartx-btn-finalize-single');
+
+                            $('.cartx-btn-finalize-single').on('click', function (e) {
+                                e.preventDefault();
+
+                                if (currentPage == 'cart') {
+                                    if(remove_cart_item) {
+                                        jQuery.ajax({
+                                            type: "POST",
+                                            url: "/cart/clear.js",
+                                            success: function () {
+                                                window.location.href = window.cartxCheckoutUrl;
+                                            },
+                                            dataType: "json"
+                                        });
+                                    } else {
+                                        window.location.href = window.cartxCheckoutUrl;
+                                    }
+                                } else {
+                                    window.location = '/cart';
+                                }
+
+                            });
+                        }
+                        
+                        function isFacebookApp() {
+                            var ua = navigator.userAgent || navigator.vendor || window.opera;
+                            return (ua.indexOf("FBAN") > -1) || (ua.indexOf("FBAV") > -1);
+                        }
+                        
+                        function isAndroidApp() {
+                            var ua = navigator.userAgent.toLowerCase() || navigator.vendor.toLowerCase() || window.opera.toLowerCase();
+                            return (ua.indexOf("android") > -1);
+                        }
+                        
+                        function getEParam() {
+                            var linkerParam = false;
+                            try {
+                                if(typeof ga !== "undefined") {
+                                    ga(function(tracker) {
+                                        linkerParam =  '&' + tracker.get('linkerParam');
+                                    });
+                                }
+                                return linkerParam;
+                            } catch (error) {
+                                return linkerParam;
+                            }
+                        }
+                        function getUtmParam() {
+                            var utm_value = getCartXCookie('_shopify_sa_p');
+                            if(utm_value != '') {
+                                return '&'+decodeURIComponent(utm_value);
+                            }
+                            return false;
+                        }
+                        function getSrcParam() {
+                            var src_value = getCartXCookie('shop_src_notes');
+                            if(src_value != '') {
+                                return '&src='+decodeURIComponent(src_value);
+                            }
+                            return false;
+                        }
+                        function getCartXCookie(cname) {
+                            var name = cname + "=";
+                            // var decodedCookie = decodeURIComponent(document.cookie);
+                            var decodedCookie = document.cookie;
+                            var ca = decodedCookie.split(';');
+                            for(var i = 0; i <ca.length; i++) {
+                                var c = ca[i];
+                                while (c.charAt(0) == ' ') {
+                                    c = c.substring(1);
+                                }
+                                if (c.indexOf(name) == 0) {
+                                    return c.substring(name.length, c.length);
+                                }
+                            }
+                            return "";
+                        }
+                        function removeArrayKey(data = null, key_1 = 'product_description') {
+                            if(data) {
+                                if(typeof data.items != 'undefined') {
+                                    var cart_items = data.items;
+                                    if(typeof jQuery != 'undefined') {
+                                        jQuery.each(cart_items, function(key, cart_item) {
+                                            delete cart_items[key][key_1];
+                                        });
+                                    }
+                                }
+                            }
+                            return data;
+                        }
+                        </script> 
+<!-- Don't Remove this code. CaCartPandartX App code. -->
+<div id="shopify-block-16278478101612877664" class="shopify-block shopify-app-block"></div></body>
+</html>
